@@ -1,0 +1,2001 @@
+[Producer 1] Produced task 0 Type: CPU Priority: 83
+[Producer 2] Produced task 1 Type: IO Priority: 77
+[Consumer 1] Consumed task 0 Type: CPU Priority: 83 WaitTime(ms): 0
+[Consumer 2] Consumed task 1 Type: IO Priority: 77 WaitTime(ms): 0
+[Producer 1] Produced task 2 Type: IO Priority: 93
+[Producer 2] Produced task 3 Type: CPU Priority: 86
+[Consumer 2] Consumed task 2 Type: IO Priority: 93 WaitTime(ms): 10
+[Producer 1] Produced task 4 Type: IO Priority: 49
+[Producer 2] Produced task 5 Type: IO Priority: 62
+[Consumer 1] Consumed task 3 Type: CPU Priority: 86 WaitTime(ms): 29
+[Consumer 2] Consumed task 5 Type: IO Priority: 62 WaitTime(ms): 20
+[Producer 1] Produced task 6 Type: IO Priority: 90
+[Producer 2] Produced task 7 Type: CPU Priority: 63
+[Producer 1] Produced task 8 Type: CPU Priority: 40
+[Producer 2] Produced task 9 Type: CPU Priority: 72
+[Consumer 2] Consumed task 6 Type: IO Priority: 90 WaitTime(ms): 30
+[Consumer 1] Consumed task 9 Type: CPU Priority: 72 WaitTime(ms): 17
+[Producer 1] Produced task 10 Type: CPU Priority: 11
+[Producer 2] Produced task 11 Type: IO Priority: 67
+[Consumer 2] Consumed task 11 Type: IO Priority: 67 WaitTime(ms): 19
+[Producer 1] Produced task 12 Type: CPU Priority: 82
+[Producer 2] Produced task 13 Type: IO Priority: 62
+[Producer 1] Produced task 14 Type: IO Priority: 67
+[Producer 2] Produced task 15 Type: CPU Priority: 29
+[Consumer 1] Consumed task 12 Type: CPU Priority: 82 WaitTime(ms): 27
+[Consumer 2] Consumed task 14 Type: IO Priority: 67 WaitTime(ms): 9
+[Producer 1] Produced task 16 Type: CPU Priority: 22
+[Producer 2] Produced task 17 Type: IO Priority: 69
+[Consumer 2] Consumed task 17 Type: IO Priority: 69 WaitTime(ms): 18
+[Producer 1] Produced task 18 Type: CPU Priority: 93
+[Producer 2] Produced task 19 Type: CPU Priority: 11
+[Consumer 1] Consumed task 18 Type: CPU Priority: 93 WaitTime(ms): 16
+[Producer 1] Produced task 20 Type: IO Priority: 29
+[Producer 2] Produced task 21 Type: IO Priority: 21
+[Consumer 2] Consumed task 7 Type: CPU Priority: 63 WaitTime(ms): 154
+[Producer 1] Produced task 22 Type: IO Priority: 84
+[Producer 2] Produced task 23 Type: CPU Priority: 98
+[Producer 1] Produced task 24 Type: CPU Priority: 15
+[Producer 2] Produced task 25 Type: CPU Priority: 13
+[Consumer 1] Consumed task 23 Type: CPU Priority: 98 WaitTime(ms): 23
+[Consumer 2] Consumed task 22 Type: IO Priority: 84 WaitTime(ms): 38
+[Producer 1] Produced task 26 Type: CPU Priority: 91
+[Producer 2] Produced task 27 Type: IO Priority: 56
+[Producer 1] Produced task 28 Type: CPU Priority: 62
+[Producer 2] Produced task 29 Type: IO Priority: 96
+[Consumer 2] Consumed task 29 Type: IO Priority: 96 WaitTime(ms): 2
+[Consumer 1] Consumed task 26 Type: CPU Priority: 91 WaitTime(ms): 34
+[Producer 1] Produced task 30 Type: IO Priority: 5
+[Producer 2] Produced task 31 Type: IO Priority: 84
+[Consumer 2] Consumed task 31 Type: IO Priority: 84 WaitTime(ms): 12
+[Producer 1] Produced task 32 Type: IO Priority: 36
+[Producer 2] Produced task 33 Type: IO Priority: 46
+[Producer 1] Produced task 34 Type: IO Priority: 13
+[Consumer 1] Consumed task 13 Type: IO Priority: 62 WaitTime(ms): 238
+[Consumer 2] Consumed task 28 Type: CPU Priority: 62 WaitTime(ms): 67
+[Producer 2] Produced task 35 Type: IO Priority: 24
+[Producer 1] Produced task 36 Type: IO Priority: 82
+[Producer 2] Produced task 37 Type: IO Priority: 14
+[Consumer 1] Consumed task 36 Type: IO Priority: 82 WaitTime(ms): 11
+[Producer 1] Produced task 38 Type: CPU Priority: 34
+[Producer 2] Produced task 39 Type: CPU Priority: 43
+[Consumer 2] Consumed task 27 Type: IO Priority: 56 WaitTime(ms): 137
+[Producer 1] Produced task 40 Type: CPU Priority: 87
+[Consumer 1] Consumed task 40 Type: CPU Priority: 87 WaitTime(ms): 0
+[Producer 2] Produced task 41 Type: CPU Priority: 76
+[Producer 1] Produced task 42 Type: CPU Priority: 88
+[Consumer 2] Consumed task 42 Type: CPU Priority: 88 WaitTime(ms): 0
+[Producer 2] Produced task 43 Type: IO Priority: 3
+[Producer 1] Produced task 44 Type: IO Priority: 54
+[Producer 2] Produced task 45 Type: CPU Priority: 32
+[Consumer 1] Consumed task 41 Type: CPU Priority: 76 WaitTime(ms): 49
+[Producer 1] Produced task 46 Type: CPU Priority: 76
+[Producer 2] Produced task 47 Type: CPU Priority: 39
+[Consumer 2] Consumed task 46 Type: CPU Priority: 76 WaitTime(ms): 9
+[Producer 1] Produced task 48 Type: CPU Priority: 26
+[Producer 2] Produced task 49 Type: IO Priority: 94
+[Consumer 1] Consumed task 49 Type: IO Priority: 94 WaitTime(ms): 15
+[Producer 1] Produced task 50 Type: CPU Priority: 95
+[Producer 2] Produced task 51 Type: CPU Priority: 34
+[Consumer 2] Consumed task 50 Type: CPU Priority: 95 WaitTime(ms): 18
+[Producer 1] Produced task 52 Type: IO Priority: 67
+[Producer 2] Produced task 53 Type: CPU Priority: 97
+[Consumer 1] Consumed task 53 Type: CPU Priority: 97 WaitTime(ms): 3
+[Producer 1] Produced task 54 Type: CPU Priority: 17
+[Producer 2] Produced task 55 Type: CPU Priority: 52
+[Producer 1] Produced task 56 Type: CPU Priority: 1
+[Producer 2] Produced task 57 Type: IO Priority: 86
+[Consumer 2] Consumed task 57 Type: IO Priority: 86 WaitTime(ms): 1
+[Consumer 1] Consumed task 52 Type: IO Priority: 67 WaitTime(ms): 59
+[Producer 1] Produced task 58 Type: IO Priority: 65
+[Producer 2] Produced task 59 Type: IO Priority: 44
+[Consumer 2] Consumed task 58 Type: IO Priority: 65 WaitTime(ms): 16
+[Producer 1] Produced task 60 Type: IO Priority: 40
+[Producer 2] Produced task 61 Type: IO Priority: 31
+[Consumer 1] Consumed task 44 Type: IO Priority: 54 WaitTime(ms): 176
+[Producer 1] Produced task 62 Type: IO Priority: 97
+[Producer 2] Produced task 63 Type: IO Priority: 81
+[Consumer 2] Consumed task 62 Type: IO Priority: 97 WaitTime(ms): 5
+[Consumer 1] Consumed task 63 Type: IO Priority: 81 WaitTime(ms): 12
+[Producer 1] Produced task 64 Type: IO Priority: 9
+[Producer 2] Produced task 65 Type: CPU Priority: 67
+[Consumer 2] Consumed task 65 Type: CPU Priority: 67 WaitTime(ms): 11
+[Producer 1] Produced task 66 Type: IO Priority: 97
+[Producer 2] Produced task 67 Type: IO Priority: 86
+[Consumer 1] Consumed task 66 Type: IO Priority: 97 WaitTime(ms): 5
+[Producer 1] Produced task 68 Type: IO Priority: 6
+[Producer 2] Produced task 69 Type: CPU Priority: 19
+[Consumer 1] Consumed task 67 Type: IO Priority: 86 WaitTime(ms): 33
+[Producer 1] Produced task 70 Type: IO Priority: 28
+[Consumer 2] Consumed task 55 Type: CPU Priority: 52 WaitTime(ms): 168
+[Producer 2] Produced task 71 Type: IO Priority: 32
+[Producer 1] Produced task 72 Type: IO Priority: 3
+[Producer 2] Produced task 73 Type: CPU Priority: 70
+[Consumer 1] Consumed task 73 Type: CPU Priority: 70 WaitTime(ms): 1
+[Producer 1] Produced task 74 Type: IO Priority: 8
+[Producer 2] Produced task 75 Type: IO Priority: 40
+[Consumer 2] Consumed task 4 Type: IO Priority: 49 WaitTime(ms): 756
+[Producer 1] Produced task 76 Type: IO Priority: 96
+[Producer 2] Produced task 77 Type: IO Priority: 18
+[Consumer 1] Consumed task 76 Type: IO Priority: 96 WaitTime(ms): 13
+[Consumer 2] Consumed task 33 Type: IO Priority: 46 WaitTime(ms): 486
+[Producer 1] Produced task 78 Type: IO Priority: 46
+[Producer 2] Produced task 79 Type: IO Priority: 21
+[Producer 1] Produced task 80 Type: CPU Priority: 79
+[Consumer 1] Consumed task 80 Type: CPU Priority: 79 WaitTime(ms): 1
+[Producer 2] Produced task 81 Type: CPU Priority: 64
+[Consumer 2] Consumed task 81 Type: CPU Priority: 64 WaitTime(ms): 5
+[Producer 1] Produced task 82 Type: CPU Priority: 41
+[Producer 2] Produced task 83 Type: CPU Priority: 93
+[Producer 1] Produced task 84 Type: CPU Priority: 34
+[Producer 2] Produced task 85 Type: CPU Priority: 24
+[Consumer 1] Consumed task 83 Type: CPU Priority: 93 WaitTime(ms): 28
+[Consumer 2] Consumed task 78 Type: IO Priority: 46 WaitTime(ms): 82
+[Producer 1] Produced task 86 Type: CPU Priority: 87
+[Producer 2] Produced task 87 Type: IO Priority: 43
+[Producer 1] Produced task 88 Type: IO Priority: 27
+[Producer 2] Produced task 89 Type: CPU Priority: 59
+[Consumer 2] Consumed task 86 Type: CPU Priority: 87 WaitTime(ms): 28
+[Producer 1] Produced task 90 Type: IO Priority: 32
+[Consumer 1] Consumed task 89 Type: CPU Priority: 59 WaitTime(ms): 18
+[Producer 2] Produced task 91 Type: CPU Priority: 37
+[Producer 1] Produced task 92 Type: IO Priority: 75
+[Producer 2] Produced task 93 Type: IO Priority: 74
+[Consumer 2] Consumed task 92 Type: IO Priority: 75 WaitTime(ms): 16
+[Producer 1] Produced task 94 Type: IO Priority: 58
+[Producer 2] Produced task 95 Type: IO Priority: 29
+[Consumer 1] Consumed task 93 Type: IO Priority: 74 WaitTime(ms): 29
+[Producer 1] Produced task 96 Type: IO Priority: 35
+[Consumer 2] Consumed task 94 Type: IO Priority: 58 WaitTime(ms): 25
+[Producer 2] Produced task 97 Type: CPU Priority: 18
+[Consumer 1] Consumed task 59 Type: IO Priority: 44 WaitTime(ms): 424
+[Producer 1] Produced task 98 Type: IO Priority: 43
+[Producer 2] Produced task 99 Type: IO Priority: 28
+[Consumer 2] Consumed task 39 Type: CPU Priority: 43 WaitTime(ms): 652
+[Producer 1] Produced task 100 Type: CPU Priority: 76
+[Producer 2] Produced task 101 Type: IO Priority: 43
+[Consumer 1] Consumed task 100 Type: CPU Priority: 76 WaitTime(ms): 8
+[Producer 1] Produced task 102 Type: CPU Priority: 13
+[Producer 2] Produced task 103 Type: CPU Priority: 6
+[Producer 1] Produced task 104 Type: CPU Priority: 4
+[Consumer 2] Consumed task 101 Type: IO Priority: 43 WaitTime(ms): 39
+[Producer 2] Produced task 105 Type: CPU Priority: 28
+[Consumer 1] Consumed task 87 Type: IO Priority: 43 WaitTime(ms): 207
+[Producer 1] Produced task 106 Type: IO Priority: 69
+[Producer 2] Produced task 107 Type: CPU Priority: 17
+[Consumer 2] Consumed task 106 Type: IO Priority: 69 WaitTime(ms): 11
+[Producer 1] Produced task 108 Type: IO Priority: 24
+[Producer 2] Produced task 109 Type: IO Priority: 70
+[Consumer 1] Consumed task 109 Type: IO Priority: 70 WaitTime(ms): 2
+[Producer 1] Produced task 110 Type: IO Priority: 90
+[Consumer 2] Consumed task 110 Type: IO Priority: 90 WaitTime(ms): 1
+[Producer 2] Produced task 111 Type: IO Priority: 72
+[Consumer 1] Consumed task 111 Type: IO Priority: 72 WaitTime(ms): 12
+[Producer 1] Produced task 112 Type: CPU Priority: 44
+[Producer 2] Produced task 113 Type: IO Priority: 5
+[Consumer 2] Consumed task 112 Type: CPU Priority: 44 WaitTime(ms): 11
+[Producer 1] Produced task 114 Type: CPU Priority: 54
+[Producer 2] Produced task 115 Type: CPU Priority: 69
+[Consumer 1] Consumed task 115 Type: CPU Priority: 69 WaitTime(ms): 1
+[Producer 1] Produced task 116 Type: CPU Priority: 42
+[Producer 2] Produced task 117 Type: IO Priority: 97
+[Consumer 2] Consumed task 117 Type: IO Priority: 97 WaitTime(ms): 17
+[Producer 1] Produced task 118 Type: CPU Priority: 55
+[Producer 2] Produced task 119 Type: IO Priority: 48
+[Consumer 1] Consumed task 118 Type: CPU Priority: 55 WaitTime(ms): 13
+[Producer 1] Produced task 120 Type: CPU Priority: 22
+[Producer 2] Produced task 121 Type: IO Priority: 99
+[Consumer 2] Consumed task 121 Type: IO Priority: 99 WaitTime(ms): 7
+[Producer 1] Produced task 122 Type: CPU Priority: 46
+[Producer 2] Produced task 123 Type: CPU Priority: 40
+[Consumer 2] Consumed task 114 Type: CPU Priority: 54 WaitTime(ms): 103
+[Producer 1] Produced task 124 Type: CPU Priority: 11
+[Producer 2] Produced task 125 Type: IO Priority: 5
+[Consumer 1] Consumed task 119 Type: IO Priority: 48 WaitTime(ms): 62
+[Producer 1] Produced task 126 Type: CPU Priority: 61
+[Producer 2] Produced task 127 Type: IO Priority: 78
+[Consumer 1] Consumed task 127 Type: IO Priority: 78 WaitTime(ms): 10
+[Producer 1] Produced task 128 Type: CPU Priority: 20
+[Producer 2] Produced task 129 Type: CPU Priority: 44
+[Consumer 2] Consumed task 126 Type: CPU Priority: 61 WaitTime(ms): 28
+[Consumer 1] Consumed task 122 Type: CPU Priority: 46 WaitTime(ms): 85
+[Producer 1] Produced task 130 Type: IO Priority: 22
+[Producer 2] Produced task 131 Type: CPU Priority: 8
+[Producer 1] Produced task 132 Type: CPU Priority: 82
+[Producer 2] Produced task 133 Type: IO Priority: 24
+[Consumer 2] Consumed task 132 Type: CPU Priority: 82 WaitTime(ms): 13
+[Producer 1] Produced task 134 Type: CPU Priority: 62
+[Producer 2] Produced task 135 Type: CPU Priority: 0
+[Consumer 1] Consumed task 134 Type: CPU Priority: 62 WaitTime(ms): 8
+[Producer 1] Produced task 136 Type: IO Priority: 52
+[Producer 2] Produced task 137 Type: CPU Priority: 79
+[Producer 1] Produced task 138 Type: IO Priority: 68
+[Producer 2] Produced task 139 Type: IO Priority: 73
+[Consumer 2] Consumed task 137 Type: CPU Priority: 79 WaitTime(ms): 22
+[Consumer 1] Consumed task 139 Type: IO Priority: 73 WaitTime(ms): 15
+[Producer 1] Produced task 140 Type: CPU Priority: 81
+[Producer 2] Produced task 141 Type: CPU Priority: 33
+[Producer 1] Produced task 142 Type: IO Priority: 60
+[Producer 2] Produced task 143 Type: IO Priority: 99
+[Consumer 1] Consumed task 143 Type: IO Priority: 99 WaitTime(ms): 4
+[Consumer 2] Consumed task 140 Type: CPU Priority: 81 WaitTime(ms): 32
+[Producer 1] Produced task 144 Type: CPU Priority: 99
+[Producer 2] Produced task 145 Type: IO Priority: 59
+[Consumer 1] Consumed task 144 Type: CPU Priority: 99 WaitTime(ms): 15
+[Producer 1] Produced task 146 Type: CPU Priority: 13
+[Producer 2] Produced task 147 Type: IO Priority: 90
+[Consumer 2] Consumed task 147 Type: IO Priority: 90 WaitTime(ms): 17
+[Producer 1] Produced task 148 Type: CPU Priority: 26
+[Producer 2] Produced task 149 Type: CPU Priority: 84
+[Producer 1] Produced task 150 Type: CPU Priority: 90
+[Producer 2] Produced task 151 Type: CPU Priority: 76
+[Consumer 1] Consumed task 150 Type: CPU Priority: 90 WaitTime(ms): 1
+[Consumer 2] Consumed task 149 Type: CPU Priority: 84 WaitTime(ms): 27
+[Producer 1] Produced task 152 Type: IO Priority: 36
+[Producer 2] Produced task 153 Type: CPU Priority: 45
+[Producer 1] Produced task 154 Type: CPU Priority: 79
+[Producer 2] Produced task 155 Type: CPU Priority: 87
+[Consumer 1] Consumed task 155 Type: CPU Priority: 87 WaitTime(ms): 11
+[Consumer 2] Consumed task 154 Type: CPU Priority: 79 WaitTime(ms): 18
+[Producer 1] Produced task 156 Type: CPU Priority: 48
+[Producer 2] Produced task 157 Type: IO Priority: 59
+[Producer 1] Produced task 158 Type: CPU Priority: 36
+[Producer 2] Produced task 159 Type: IO Priority: 42
+[Consumer 1] Consumed task 151 Type: CPU Priority: 76 WaitTime(ms): 103
+[Producer 1] Produced task 160 Type: IO Priority: 6
+[Producer 2] Produced task 161 Type: CPU Priority: 13
+[Consumer 2] Consumed task 138 Type: IO Priority: 68 WaitTime(ms): 240
+[Producer 1] Produced task 162 Type: IO Priority: 21
+[Producer 2] Produced task 163 Type: IO Priority: 19
+[Consumer 2] Consumed task 142 Type: IO Priority: 60 WaitTime(ms): 227
+[Producer 1] Produced task 164 Type: CPU Priority: 21
+[Producer 2] Produced task 165 Type: IO Priority: 39
+[Consumer 1] Consumed task 157 Type: IO Priority: 59 WaitTime(ms): 92
+[Producer 1] Produced task 166 Type: IO Priority: 40
+[Producer 2] Produced task 167 Type: CPU Priority: 5
+[Consumer 2] Consumed task 145 Type: IO Priority: 59 WaitTime(ms): 234
+[Consumer 1] Consumed task 136 Type: IO Priority: 52 WaitTime(ms): 338
+[Producer 1] Produced task 168 Type: CPU Priority: 27
+[Producer 2] Produced task 169 Type: CPU Priority: 84
+[Consumer 2] Consumed task 169 Type: CPU Priority: 84 WaitTime(ms): 12
+[Producer 1] Produced task 170 Type: CPU Priority: 20
+[Producer 2] Produced task 171 Type: IO Priority: 22
+[Consumer 1] Consumed task 156 Type: CPU Priority: 48 WaitTime(ms): 156
+[Producer 1] Produced task 172 Type: IO Priority: 96
+[Producer 2] Produced task 173 Type: CPU Priority: 30
+[Producer 1] Produced task 174 Type: CPU Priority: 92
+[Producer 2] Produced task 175 Type: CPU Priority: 72
+[Consumer 2] Consumed task 172 Type: IO Priority: 96 WaitTime(ms): 22
+[Consumer 1] Consumed task 174 Type: CPU Priority: 92 WaitTime(ms): 17
+[Producer 1] Produced task 176 Type: IO Priority: 25
+[Producer 2] Produced task 177 Type: IO Priority: 22
+[Consumer 2] Consumed task 175 Type: CPU Priority: 72 WaitTime(ms): 32
+[Producer 1] Produced task 178 Type: CPU Priority: 40
+[Producer 2] Produced task 179 Type: IO Priority: 98
+[Producer 1] Produced task 180 Type: CPU Priority: 98
+[Producer 2] Produced task 181 Type: CPU Priority: 24
+[Consumer 1] Consumed task 179 Type: IO Priority: 98 WaitTime(ms): 25
+[Consumer 2] Consumed task 180 Type: CPU Priority: 98 WaitTime(ms): 20
+[Producer 1] Produced task 182 Type: IO Priority: 9
+[Producer 2] Produced task 183 Type: CPU Priority: 19
+[Consumer 1] Consumed task 153 Type: CPU Priority: 45 WaitTime(ms): 331
+[Producer 1] Produced task 184 Type: IO Priority: 32
+[Producer 2] Produced task 185 Type: CPU Priority: 94
+[Producer 1] Produced task 186 Type: IO Priority: 79
+[Producer 2] Produced task 187 Type: CPU Priority: 73
+[Consumer 2] Consumed task 185 Type: CPU Priority: 94 WaitTime(ms): 28
+[Producer 1] Produced task 188 Type: IO Priority: 50
+[Producer 2] Produced task 189 Type: CPU Priority: 60
+[Consumer 1] Consumed task 186 Type: IO Priority: 79 WaitTime(ms): 23
+[Producer 1] Produced task 190 Type: CPU Priority: 79
+[Producer 2] Produced task 191 Type: IO Priority: 93
+[Consumer 1] Consumed task 191 Type: IO Priority: 93 WaitTime(ms): 12
+[Consumer 2] Consumed task 190 Type: CPU Priority: 79 WaitTime(ms): 18
+[Producer 1] Produced task 192 Type: IO Priority: 21
+[Producer 2] Produced task 193 Type: IO Priority: 4
+[Producer 1] Produced task 194 Type: CPU Priority: 61
+[Producer 2] Produced task 195 Type: IO Priority: 26
+[Consumer 1] Consumed task 187 Type: CPU Priority: 73 WaitTime(ms): 84
+[Producer 1] Produced task 196 Type: CPU Priority: 44
+[Producer 2] Produced task 197 Type: CPU Priority: 2
+[Consumer 2] Consumed task 194 Type: CPU Priority: 61 WaitTime(ms): 27
+[Producer 1] Produced task 198 Type: IO Priority: 84
+[Producer 2] Produced task 199 Type: CPU Priority: 42
+[Consumer 1] Consumed task 198 Type: IO Priority: 84 WaitTime(ms): 10
+[Producer 1] Produced task 200 Type: IO Priority: 28
+[Producer 2] Produced task 201 Type: CPU Priority: 72
+[Consumer 2] Consumed task 201 Type: CPU Priority: 72 WaitTime(ms): 12
+[Consumer 1] Consumed task 189 Type: CPU Priority: 60 WaitTime(ms): 147
+[Producer 1] Produced task 202 Type: CPU Priority: 58
+[Producer 2] Produced task 203 Type: CPU Priority: 36
+[Producer 1] Produced task 204 Type: CPU Priority: 53
+[Producer 2] Produced task 205 Type: IO Priority: 3
+[Producer 1] Produced task 206 Type: CPU Priority: 33
+[Producer 2] Produced task 207 Type: CPU Priority: 90
+[Consumer 2] Consumed task 207 Type: CPU Priority: 90 WaitTime(ms): 1
+[Consumer 1] Consumed task 202 Type: CPU Priority: 58 WaitTime(ms): 50
+[Producer 1] Produced task 208 Type: CPU Priority: 67
+[Producer 2] Produced task 209 Type: IO Priority: 68
+[Producer 1] Produced task 210 Type: CPU Priority: 0
+[Producer 2] Produced task 211 Type: IO Priority: 88
+[Consumer 2] Consumed task 211 Type: IO Priority: 88 WaitTime(ms): 9
+[Consumer 1] Consumed task 209 Type: IO Priority: 68 WaitTime(ms): 37
+[Producer 1] Produced task 212 Type: CPU Priority: 49
+[Producer 2] Produced task 213 Type: IO Priority: 3
+[Consumer 2] Consumed task 208 Type: CPU Priority: 67 WaitTime(ms): 65
+[Producer 1] Produced task 214 Type: IO Priority: 63
+[Producer 2] Produced task 215 Type: CPU Priority: 53
+[Consumer 1] Consumed task 214 Type: IO Priority: 63 WaitTime(ms): 4
+[Producer 1] Produced task 216 Type: IO Priority: 86
+[Producer 2] Produced task 217 Type: CPU Priority: 52
+[Consumer 1] Consumed task 216 Type: IO Priority: 86 WaitTime(ms): 14
+[Producer 1] Produced task 218 Type: CPU Priority: 75
+[Producer 2] Produced task 219 Type: IO Priority: 57
+[Consumer 2] Consumed task 218 Type: CPU Priority: 75 WaitTime(ms): 9
+[Producer 1] Produced task 220 Type: CPU Priority: 36
+[Producer 2] Produced task 221 Type: IO Priority: 14
+[Consumer 1] Consumed task 219 Type: IO Priority: 57 WaitTime(ms): 24
+[Producer 1] Produced task 222 Type: CPU Priority: 60
+[Producer 2] Produced task 223 Type: IO Priority: 28
+[Consumer 1] Consumed task 222 Type: CPU Priority: 60 WaitTime(ms): 14
+[Consumer 2] Consumed task 204 Type: CPU Priority: 53 WaitTime(ms): 209
+[Producer 1] Produced task 224 Type: CPU Priority: 50
+[Producer 2] Produced task 225 Type: CPU Priority: 56
+[Producer 1] Produced task 226 Type: IO Priority: 94
+[Producer 2] Produced task 227 Type: IO Priority: 99
+[Consumer 1] Consumed task 227 Type: IO Priority: 99 WaitTime(ms): 20
+[Producer 1] Produced task 228 Type: CPU Priority: 39
+[Producer 2] Produced task 229 Type: IO Priority: 28
+[Consumer 2] Consumed task 226 Type: IO Priority: 94 WaitTime(ms): 24
+[Producer 1] Produced task 230 Type: IO Priority: 0
+[Producer 2] Produced task 231 Type: CPU Priority: 47
+[Consumer 1] Consumed task 225 Type: CPU Priority: 56 WaitTime(ms): 73
+[Consumer 2] Consumed task 215 Type: CPU Priority: 53 WaitTime(ms): 183
+[Producer 1] Produced task 232 Type: IO Priority: 59
+[Producer 2] Produced task 233 Type: CPU Priority: 35
+[Producer 1] Produced task 234 Type: CPU Priority: 39
+[Producer 2] Produced task 235 Type: IO Priority: 15
+[Consumer 1] Consumed task 232 Type: IO Priority: 59 WaitTime(ms): 40
+[Consumer 2] Consumed task 217 Type: CPU Priority: 52 WaitTime(ms): 214
+[Producer 1] Produced task 236 Type: IO Priority: 4
+[Producer 2] Produced task 237 Type: CPU Priority: 49
+[Producer 1] Produced task 238 Type: IO Priority: 85
+[Producer 2] Produced task 239 Type: IO Priority: 43
+[Consumer 1] Consumed task 238 Type: IO Priority: 85 WaitTime(ms): 4
+[Producer 1] Produced task 240 Type: CPU Priority: 77
+[Producer 2] Produced task 241 Type: IO Priority: 38
+[Consumer 2] Consumed task 240 Type: CPU Priority: 77 WaitTime(ms): 6
+[Consumer 1] Consumed task 188 Type: IO Priority: 50 WaitTime(ms): 576
+[Producer 1] Produced task 242 Type: IO Priority: 49
+[Producer 2] Produced task 243 Type: CPU Priority: 67
+[Producer 1] Produced task 244 Type: IO Priority: 92
+[Producer 2] Produced task 245 Type: CPU Priority: 43
+[Consumer 1] Consumed task 244 Type: IO Priority: 92 WaitTime(ms): 3
+[Consumer 2] Consumed task 243 Type: CPU Priority: 67 WaitTime(ms): 34
+[Producer 1] Produced task 246 Type: CPU Priority: 29
+[Producer 2] Produced task 247 Type: CPU Priority: 82
+[Consumer 1] Consumed task 247 Type: CPU Priority: 82 WaitTime(ms): 10
+[Producer 1] Produced task 248 Type: IO Priority: 41
+[Producer 2] Produced task 249 Type: CPU Priority: 26
+[Producer 1] Produced task 250 Type: CPU Priority: 61
+[Producer 2] Produced task 251 Type: IO Priority: 60
+[Consumer 2] Consumed task 250 Type: CPU Priority: 61 WaitTime(ms): 3
+[Consumer 1] Consumed task 251 Type: IO Priority: 60 WaitTime(ms): 18
+[Producer 1] Produced task 252 Type: IO Priority: 23
+[Producer 2] Produced task 253 Type: IO Priority: 81
+[Producer 1] Produced task 254 Type: IO Priority: 90
+[Producer 2] Produced task 255 Type: IO Priority: 96
+[Consumer 1] Consumed task 255 Type: IO Priority: 96 WaitTime(ms): 6
+[Consumer 2] Consumed task 254 Type: IO Priority: 90 WaitTime(ms): 11
+[Producer 1] Produced task 256 Type: CPU Priority: 77
+[Producer 2] Produced task 257 Type: CPU Priority: 90
+[Consumer 1] Consumed task 257 Type: CPU Priority: 90 WaitTime(ms): 16
+[Consumer 2] Consumed task 253 Type: IO Priority: 81 WaitTime(ms): 63
+[Producer 1] Produced task 258 Type: IO Priority: 24
+[Producer 2] Produced task 259 Type: CPU Priority: 14
+[Producer 1] Produced task 260 Type: CPU Priority: 5
+[Producer 2] Produced task 261 Type: CPU Priority: 12
+[Consumer 2] Consumed task 256 Type: CPU Priority: 77 WaitTime(ms): 53
+[Producer 1] Produced task 262 Type: CPU Priority: 0
+[Producer 2] Produced task 263 Type: CPU Priority: 26
+[Consumer 1] Consumed task 224 Type: CPU Priority: 50 WaitTime(ms): 421
+[Producer 1] Produced task 264 Type: CPU Priority: 16
+[Producer 2] Produced task 265 Type: IO Priority: 78
+[Consumer 2] Consumed task 265 Type: IO Priority: 78 WaitTime(ms): 16
+[Producer 1] Produced task 266 Type: CPU Priority: 46
+[Producer 2] Produced task 267 Type: CPU Priority: 47
+[Consumer 1] Consumed task 242 Type: IO Priority: 49 WaitTime(ms): 274
+[Producer 1] Produced task 268 Type: CPU Priority: 51
+[Producer 2] Produced task 269 Type: IO Priority: 31
+[Consumer 2] Consumed task 268 Type: CPU Priority: 51 WaitTime(ms): 6
+[Producer 1] Produced task 270 Type: IO Priority: 57
+[Producer 2] Produced task 271 Type: CPU Priority: 12
+[Consumer 1] Consumed task 270 Type: IO Priority: 57 WaitTime(ms): 3
+[Producer 1] Produced task 272 Type: IO Priority: 14
+[Producer 2] Produced task 273 Type: CPU Priority: 12
+[Consumer 1] Consumed task 212 Type: CPU Priority: 49 WaitTime(ms): 662
+[Consumer 2] Consumed task 237 Type: CPU Priority: 49 WaitTime(ms): 403
+[Producer 1] Produced task 274 Type: IO Priority: 12
+[Producer 2] Produced task 275 Type: IO Priority: 10
+[Producer 1] Produced task 276 Type: CPU Priority: 89
+[Producer 2] Produced task 277 Type: IO Priority: 55
+[Consumer 1] Consumed task 276 Type: CPU Priority: 89 WaitTime(ms): 20
+[Producer 1] Produced task 278 Type: IO Priority: 20
+[Consumer 2] Consumed task 277 Type: IO Priority: 55 WaitTime(ms): 20
+[Producer 2] Produced task 279 Type: CPU Priority: 87
+[Producer 1] Produced task 280 Type: CPU Priority: 38
+[Producer 2] Produced task 281 Type: CPU Priority: 70
+[Consumer 2] Consumed task 279 Type: CPU Priority: 87 WaitTime(ms): 30
+[Producer 1] Produced task 282 Type: IO Priority: 56
+[Producer 2] Produced task 283 Type: CPU Priority: 6
+[Consumer 1] Consumed task 281 Type: CPU Priority: 70 WaitTime(ms): 27
+[Producer 1] Produced task 284 Type: IO Priority: 49
+[Producer 2] Produced task 285 Type: IO Priority: 5
+[Consumer 2] Consumed task 282 Type: IO Priority: 56 WaitTime(ms): 41
+[Producer 1] Produced task 286 Type: CPU Priority: 17
+[Producer 2] Produced task 287 Type: IO Priority: 45
+[Consumer 1] Consumed task 284 Type: IO Priority: 49 WaitTime(ms): 37
+[Producer 1] Produced task 288 Type: CPU Priority: 73
+[Producer 2] Produced task 289 Type: IO Priority: 73
+[Consumer 2] Consumed task 288 Type: CPU Priority: 73 WaitTime(ms): 8
+[Producer 1] Produced task 290 Type: IO Priority: 89
+[Producer 2] Produced task 291 Type: CPU Priority: 7
+[Consumer 1] Consumed task 290 Type: IO Priority: 89 WaitTime(ms): 5
+[Producer 1] Produced task 292 Type: CPU Priority: 57
+[Producer 2] Produced task 293 Type: IO Priority: 71
+[Consumer 1] Consumed task 289 Type: IO Priority: 73 WaitTime(ms): 55
+[Consumer 2] Consumed task 293 Type: IO Priority: 71 WaitTime(ms): 17
+[Producer 1] Produced task 294 Type: IO Priority: 0
+[Producer 2] Produced task 295 Type: CPU Priority: 18
+[Producer 1] Produced task 296 Type: CPU Priority: 25
+[Producer 2] Produced task 297 Type: IO Priority: 74
+[Consumer 1] Consumed task 297 Type: IO Priority: 74 WaitTime(ms): 3
+[Consumer 2] Consumed task 292 Type: CPU Priority: 57 WaitTime(ms): 49
+[Producer 1] Produced task 298 Type: IO Priority: 57
+[Producer 2] Produced task 299 Type: CPU Priority: 93
+[Consumer 1] Consumed task 299 Type: CPU Priority: 93 WaitTime(ms): 13
+[Producer 1] Produced task 300 Type: IO Priority: 70
+[Producer 2] Produced task 301 Type: IO Priority: 17
+[Consumer 2] Consumed task 300 Type: IO Priority: 70 WaitTime(ms): 16
+[Producer 1] Produced task 302 Type: IO Priority: 69
+[Producer 2] Produced task 303 Type: CPU Priority: 22
+[Producer 1] Produced task 304 Type: IO Priority: 73
+[Producer 2] Produced task 305 Type: CPU Priority: 31
+[Consumer 1] Consumed task 304 Type: IO Priority: 73 WaitTime(ms): 3
+[Consumer 2] Consumed task 302 Type: IO Priority: 69 WaitTime(ms): 26
+[Producer 1] Produced task 306 Type: CPU Priority: 82
+[Producer 2] Produced task 307 Type: IO Priority: 92
+[Consumer 1] Consumed task 307 Type: IO Priority: 92 WaitTime(ms): 10
+[Consumer 2] Consumed task 306 Type: CPU Priority: 82 WaitTime(ms): 14
+[Producer 1] Produced task 308 Type: IO Priority: 57
+[Producer 2] Produced task 309 Type: IO Priority: 21
+[Producer 1] Produced task 310 Type: IO Priority: 74
+[Consumer 1] Consumed task 310 Type: IO Priority: 74 WaitTime(ms): 1
+[Producer 2] Produced task 311 Type: IO Priority: 47
+[Producer 1] Produced task 312 Type: IO Priority: 31
+[Consumer 2] Consumed task 298 Type: IO Priority: 57 WaitTime(ms): 149
+[Producer 2] Produced task 313 Type: CPU Priority: 37
+[Consumer 1] Consumed task 308 Type: IO Priority: 57 WaitTime(ms): 54
+[Producer 1] Produced task 314 Type: CPU Priority: 54
+[Producer 2] Produced task 315 Type: IO Priority: 98
+[Consumer 2] Consumed task 315 Type: IO Priority: 98 WaitTime(ms): 7
+[Producer 1] Produced task 316 Type: CPU Priority: 81
+[Consumer 1] Consumed task 316 Type: CPU Priority: 81 WaitTime(ms): 0
+[Producer 2] Produced task 317 Type: CPU Priority: 16
+[Consumer 2] Consumed task 314 Type: CPU Priority: 54 WaitTime(ms): 43
+[Producer 1] Produced task 318 Type: IO Priority: 31
+[Producer 2] Produced task 319 Type: CPU Priority: 96
+[Producer 1] Produced task 320 Type: CPU Priority: 38
+[Producer 2] Produced task 321 Type: IO Priority: 18
+[Consumer 1] Consumed task 319 Type: CPU Priority: 96 WaitTime(ms): 27
+[Producer 1] Produced task 322 Type: CPU Priority: 70
+[Producer 2] Produced task 323 Type: IO Priority: 12
+[Consumer 2] Consumed task 322 Type: CPU Priority: 70 WaitTime(ms): 8
+[Producer 1] Produced task 324 Type: IO Priority: 77
+[Producer 2] Produced task 325 Type: CPU Priority: 36
+[Consumer 1] Consumed task 324 Type: IO Priority: 77 WaitTime(ms): 18
+[Producer 1] Produced task 326 Type: IO Priority: 76
+[Producer 2] Produced task 327 Type: IO Priority: 7
+[Consumer 2] Consumed task 326 Type: IO Priority: 76 WaitTime(ms): 18
+[Producer 1] Produced task 328 Type: CPU Priority: 57
+[Producer 2] Produced task 329 Type: IO Priority: 99
+[Consumer 1] Consumed task 329 Type: IO Priority: 99 WaitTime(ms): 5
+[Producer 1] Produced task 330 Type: CPU Priority: 27
+[Producer 2] Produced task 331 Type: CPU Priority: 36
+[Consumer 2] Consumed task 328 Type: CPU Priority: 57 WaitTime(ms): 28
+[Consumer 1] Consumed task 231 Type: CPU Priority: 47 WaitTime(ms): 1088
+[Producer 1] Produced task 332 Type: IO Priority: 18
+[Producer 2] Produced task 333 Type: IO Priority: 63
+[Producer 1] Produced task 334 Type: IO Priority: 44
+[Producer 2] Produced task 335 Type: CPU Priority: 5
+[Consumer 2] Consumed task 333 Type: IO Priority: 63 WaitTime(ms): 35
+[Producer 1] Produced task 336 Type: IO Priority: 91
+[Producer 2] Produced task 337 Type: CPU Priority: 55
+[Consumer 1] Consumed task 336 Type: IO Priority: 91 WaitTime(ms): 6
+[Producer 1] Produced task 338 Type: CPU Priority: 89
+[Producer 2] Produced task 339 Type: CPU Priority: 93
+[Consumer 2] Consumed task 339 Type: CPU Priority: 93 WaitTime(ms): 0
+[Consumer 1] Consumed task 338 Type: CPU Priority: 89 WaitTime(ms): 11
+[Producer 1] Produced task 340 Type: CPU Priority: 5
+[Producer 2] Produced task 341 Type: CPU Priority: 22
+[Producer 1] Produced task 342 Type: CPU Priority: 17
+[Producer 2] Produced task 343 Type: CPU Priority: 93
+[Consumer 2] Consumed task 343 Type: CPU Priority: 93 WaitTime(ms): 9
+[Consumer 1] Consumed task 337 Type: CPU Priority: 55 WaitTime(ms): 82
+[Producer 1] Produced task 344 Type: IO Priority: 26
+[Producer 2] Produced task 345 Type: IO Priority: 86
+[Producer 1] Produced task 346 Type: CPU Priority: 43
+[Producer 2] Produced task 347 Type: IO Priority: 14
+[Consumer 2] Consumed task 345 Type: IO Priority: 86 WaitTime(ms): 38
+[Producer 1] Produced task 348 Type: IO Priority: 79
+[Producer 2] Produced task 349 Type: IO Priority: 62
+[Consumer 1] Consumed task 348 Type: IO Priority: 79 WaitTime(ms): 6
+[Producer 1] Produced task 350 Type: IO Priority: 88
+[Producer 2] Produced task 351 Type: CPU Priority: 10
+[Consumer 2] Consumed task 350 Type: IO Priority: 88 WaitTime(ms): 6
+[Consumer 1] Consumed task 349 Type: IO Priority: 62 WaitTime(ms): 37
+[Producer 1] Produced task 352 Type: IO Priority: 94
+[Producer 2] Produced task 353 Type: IO Priority: 46
+[Consumer 2] Consumed task 352 Type: IO Priority: 94 WaitTime(ms): 16
+[Producer 1] Produced task 354 Type: IO Priority: 37
+[Producer 2] Produced task 355 Type: IO Priority: 53
+[Consumer 1] Consumed task 355 Type: IO Priority: 53 WaitTime(ms): 4
+[Producer 1] Produced task 356 Type: CPU Priority: 73
+[Producer 2] Produced task 357 Type: IO Priority: 25
+[Consumer 2] Consumed task 356 Type: CPU Priority: 73 WaitTime(ms): 5
+[Consumer 1] Consumed task 267 Type: CPU Priority: 47 WaitTime(ms): 972
+[Producer 1] Produced task 358 Type: CPU Priority: 10
+[Producer 2] Produced task 359 Type: CPU Priority: 17
+[Producer 1] Produced task 360 Type: IO Priority: 63
+[Producer 2] Produced task 361 Type: CPU Priority: 90
+[Consumer 2] Consumed task 361 Type: CPU Priority: 90 WaitTime(ms): 14
+[Producer 1] Produced task 362 Type: CPU Priority: 30
+[Producer 2] Produced task 363 Type: IO Priority: 71
+[Consumer 1] Consumed task 363 Type: IO Priority: 71 WaitTime(ms): 2
+[Producer 1] Produced task 364 Type: IO Priority: 33
+[Producer 2] Produced task 365 Type: IO Priority: 89
+[Consumer 1] Consumed task 365 Type: IO Priority: 89 WaitTime(ms): 11
+[Producer 1] Produced task 366 Type: IO Priority: 4
+[Producer 2] Produced task 367 Type: CPU Priority: 5
+[Consumer 2] Consumed task 360 Type: IO Priority: 63 WaitTime(ms): 66
+[Producer 1] Produced task 368 Type: IO Priority: 68
+[Producer 2] Produced task 369 Type: CPU Priority: 85
+[Consumer 1] Consumed task 369 Type: CPU Priority: 85 WaitTime(ms): 0
+[Consumer 2] Consumed task 368 Type: IO Priority: 68 WaitTime(ms): 11
+[Producer 1] Produced task 370 Type: IO Priority: 95
+[Producer 2] Produced task 371 Type: CPU Priority: 49
+[Producer 1] Produced task 372 Type: CPU Priority: 67
+[Consumer 2] Consumed task 370 Type: IO Priority: 95 WaitTime(ms): 21
+[Producer 2] Produced task 373 Type: IO Priority: 63
+[Consumer 1] Consumed task 372 Type: CPU Priority: 67 WaitTime(ms): 11
+[Producer 1] Produced task 374 Type: IO Priority: 96
+[Producer 2] Produced task 375 Type: CPU Priority: 65
+[Consumer 2] Consumed task 374 Type: IO Priority: 96 WaitTime(ms): 11
+[Producer 1] Produced task 376 Type: IO Priority: 36
+[Producer 2] Produced task 377 Type: CPU Priority: 70
+[Producer 1] Produced task 378 Type: CPU Priority: 11
+[Consumer 1] Consumed task 377 Type: CPU Priority: 70 WaitTime(ms): 19
+[Consumer 2] Consumed task 375 Type: CPU Priority: 65 WaitTime(ms): 40
+[Producer 2] Produced task 379 Type: CPU Priority: 32
+[Producer 1] Produced task 380 Type: IO Priority: 79
+[Producer 2] Produced task 381 Type: CPU Priority: 70
+[Producer 1] Produced task 382 Type: IO Priority: 72
+[Producer 2] Produced task 383 Type: CPU Priority: 34
+[Consumer 1] Consumed task 380 Type: IO Priority: 79 WaitTime(ms): 30
+[Consumer 2] Consumed task 382 Type: IO Priority: 72 WaitTime(ms): 10
+[Producer 1] Produced task 384 Type: CPU Priority: 83
+[Producer 2] Produced task 385 Type: CPU Priority: 98
+[Consumer 1] Consumed task 385 Type: CPU Priority: 98 WaitTime(ms): 17
+[Consumer 2] Consumed task 384 Type: CPU Priority: 83 WaitTime(ms): 20
+[Producer 1] Produced task 386 Type: IO Priority: 63
+[Producer 2] Produced task 387 Type: CPU Priority: 50
+[Producer 1] Produced task 388 Type: CPU Priority: 73
+[Producer 2] Produced task 389 Type: CPU Priority: 59
+[Producer 1] Produced task 390 Type: CPU Priority: 47
+[Producer 2] Produced task 391 Type: IO Priority: 82
+[Consumer 1] Consumed task 391 Type: IO Priority: 82 WaitTime(ms): 6
+[Consumer 2] Consumed task 388 Type: CPU Priority: 73 WaitTime(ms): 29
+[Producer 1] Produced task 392 Type: CPU Priority: 32
+[Producer 2] Produced task 393 Type: IO Priority: 54
+[Consumer 1] Consumed task 381 Type: CPU Priority: 70 WaitTime(ms): 142
+[Producer 1] Produced task 394 Type: CPU Priority: 98
+[Producer 2] Produced task 395 Type: CPU Priority: 40
+[Consumer 2] Consumed task 394 Type: CPU Priority: 98 WaitTime(ms): 18
+[Producer 1] Produced task 396 Type: CPU Priority: 59
+[Producer 2] Produced task 397 Type: IO Priority: 62
+[Producer 1] Produced task 398 Type: CPU Priority: 41
+[Producer 2] Produced task 399 Type: CPU Priority: 23
+[Consumer 1] Consumed task 373 Type: IO Priority: 63 WaitTime(ms): 276
+[Producer 1] Produced task 400 Type: CPU Priority: 72
+[Producer 2] Produced task 401 Type: IO Priority: 54
+[Consumer 2] Consumed task 400 Type: CPU Priority: 72 WaitTime(ms): 5
+[Consumer 1] Consumed task 386 Type: IO Priority: 63 WaitTime(ms): 161
+[Producer 1] Produced task 402 Type: IO Priority: 21
+[Producer 2] Produced task 403 Type: IO Priority: 65
+[Producer 1] Produced task 404 Type: CPU Priority: 71
+[Producer 2] Produced task 405 Type: CPU Priority: 69
+[Consumer 1] Consumed task 404 Type: CPU Priority: 71 WaitTime(ms): 5
+[Consumer 2] Consumed task 405 Type: CPU Priority: 69 WaitTime(ms): 12
+[Producer 1] Produced task 406 Type: IO Priority: 1
+[Producer 2] Produced task 407 Type: IO Priority: 53
+[Producer 1] Produced task 408 Type: IO Priority: 7
+[Producer 2] Produced task 409 Type: CPU Priority: 28
+[Consumer 1] Consumed task 403 Type: IO Priority: 65 WaitTime(ms): 74
+[Producer 1] Produced task 410 Type: CPU Priority: 97
+[Producer 2] Produced task 411 Type: CPU Priority: 84
+[Consumer 2] Consumed task 410 Type: CPU Priority: 97 WaitTime(ms): 3
+[Producer 1] Produced task 412 Type: CPU Priority: 34
+[Producer 2] Produced task 413 Type: CPU Priority: 91
+[Consumer 1] Consumed task 413 Type: CPU Priority: 91 WaitTime(ms): 1
+[Producer 1] Produced task 414 Type: IO Priority: 98
+[Producer 2] Produced task 415 Type: IO Priority: 52
+[Consumer 2] Consumed task 414 Type: IO Priority: 98 WaitTime(ms): 13
+[Producer 1] Produced task 416 Type: IO Priority: 89
+[Producer 2] Produced task 417 Type: CPU Priority: 6
+[Consumer 1] Consumed task 416 Type: IO Priority: 89 WaitTime(ms): 12
+[Producer 1] Produced task 418 Type: CPU Priority: 16
+[Producer 2] Produced task 419 Type: IO Priority: 9
+[Consumer 2] Consumed task 411 Type: CPU Priority: 84 WaitTime(ms): 83
+[Producer 1] Produced task 420 Type: CPU Priority: 0
+[Producer 2] Produced task 421 Type: IO Priority: 9
+[Consumer 1] Consumed task 397 Type: IO Priority: 62 WaitTime(ms): 249
+[Producer 1] Produced task 422 Type: CPU Priority: 81
+[Producer 2] Produced task 423 Type: IO Priority: 38
+[Consumer 1] Consumed task 422 Type: CPU Priority: 81 WaitTime(ms): 12
+[Consumer 2] Consumed task 389 Type: CPU Priority: 59 WaitTime(ms): 363
+[Producer 1] Produced task 424 Type: IO Priority: 26
+[Producer 2] Produced task 425 Type: IO Priority: 47
+[Producer 1] Produced task 426 Type: IO Priority: 87
+[Producer 2] Produced task 427 Type: CPU Priority: 32
+[Producer 1] Produced task 428 Type: IO Priority: 81
+[Consumer 1] Consumed task 426 Type: IO Priority: 87 WaitTime(ms): 21
+[Producer 2] Produced task 429 Type: IO Priority: 50
+[Consumer 2] Consumed task 428 Type: IO Priority: 81 WaitTime(ms): 2
+[Producer 1] Produced task 430 Type: CPU Priority: 90
+[Producer 2] Produced task 431 Type: IO Priority: 50
+[Consumer 1] Consumed task 430 Type: CPU Priority: 90 WaitTime(ms): 11
+[Consumer 2] Consumed task 396 Type: CPU Priority: 59 WaitTime(ms): 365
+[Producer 1] Produced task 432 Type: IO Priority: 13
+[Producer 2] Produced task 433 Type: IO Priority: 94
+[Producer 1] Produced task 434 Type: IO Priority: 81
+[Producer 2] Produced task 435 Type: IO Priority: 20
+[Consumer 1] Consumed task 433 Type: IO Priority: 94 WaitTime(ms): 39
+[Producer 1] Produced task 436 Type: IO Priority: 82
+[Consumer 2] Consumed task 436 Type: IO Priority: 82 WaitTime(ms): 0
+[Producer 2] Produced task 437 Type: IO Priority: 87
+[Producer 1] Produced task 438 Type: IO Priority: 96
+[Producer 2] Produced task 439 Type: CPU Priority: 4
+[Consumer 1] Consumed task 438 Type: IO Priority: 96 WaitTime(ms): 9
+[Consumer 2] Consumed task 437 Type: IO Priority: 87 WaitTime(ms): 30
+[Producer 1] Produced task 440 Type: IO Priority: 92
+[Producer 2] Produced task 441 Type: CPU Priority: 97
+[Consumer 1] Consumed task 441 Type: CPU Priority: 97 WaitTime(ms): 18
+[Consumer 2] Consumed task 440 Type: IO Priority: 92 WaitTime(ms): 20
+[Producer 1] Produced task 442 Type: IO Priority: 34
+[Producer 2] Produced task 443 Type: IO Priority: 6
+[Producer 1] Produced task 444 Type: CPU Priority: 57
+[Producer 2] Produced task 445 Type: IO Priority: 95
+[Consumer 2] Consumed task 445 Type: IO Priority: 95 WaitTime(ms): 8
+[Producer 1] Produced task 446 Type: IO Priority: 62
+[Producer 2] Produced task 447 Type: CPU Priority: 83
+[Consumer 1] Consumed task 447 Type: CPU Priority: 83 WaitTime(ms): 7
+[Consumer 2] Consumed task 434 Type: IO Priority: 81 WaitTime(ms): 144
+[Producer 1] Produced task 448 Type: IO Priority: 54
+[Producer 2] Produced task 449 Type: IO Priority: 9
+[Producer 1] Produced task 450 Type: CPU Priority: 32
+[Producer 2] Produced task 451 Type: CPU Priority: 21
+[Consumer 2] Consumed task 446 Type: IO Priority: 62 WaitTime(ms): 50
+[Consumer 1] Consumed task 444 Type: CPU Priority: 57 WaitTime(ms): 79
+[Producer 1] Produced task 452 Type: CPU Priority: 63
+[Producer 2] Produced task 453 Type: IO Priority: 82
+[Consumer 2] Consumed task 453 Type: IO Priority: 82 WaitTime(ms): 18
+[Producer 1] Produced task 454 Type: CPU Priority: 85
+[Producer 2] Produced task 455 Type: CPU Priority: 85
+[Producer 1] Produced task 456 Type: IO Priority: 90
+[Producer 2] Produced task 457 Type: CPU Priority: 14
+[Consumer 1] Consumed task 456 Type: IO Priority: 90 WaitTime(ms): 6
+[Consumer 2] Consumed task 454 Type: CPU Priority: 85 WaitTime(ms): 29
+[Producer 1] Produced task 458 Type: CPU Priority: 16
+[Producer 2] Produced task 459 Type: IO Priority: 92
+[Consumer 1] Consumed task 459 Type: IO Priority: 92 WaitTime(ms): 15
+[Producer 1] Produced task 460 Type: IO Priority: 28
+[Producer 2] Produced task 461 Type: CPU Priority: 25
+[Consumer 2] Consumed task 455 Type: CPU Priority: 85 WaitTime(ms): 79
+[Producer 1] Produced task 462 Type: CPU Priority: 36
+[Producer 2] Produced task 463 Type: IO Priority: 18
+[Consumer 1] Consumed task 452 Type: CPU Priority: 63 WaitTime(ms): 109
+[Producer 1] Produced task 464 Type: CPU Priority: 37
+[Producer 2] Produced task 465 Type: IO Priority: 82
+[Producer 1] Produced task 466 Type: IO Priority: 10
+[Producer 2] Produced task 467 Type: IO Priority: 88
+[Consumer 2] Consumed task 467 Type: IO Priority: 88 WaitTime(ms): 5
+[Consumer 1] Consumed task 465 Type: IO Priority: 82 WaitTime(ms): 35
+[Producer 1] Produced task 468 Type: CPU Priority: 15
+[Producer 2] Produced task 469 Type: IO Priority: 37
+[Consumer 2] Consumed task 401 Type: IO Priority: 54 WaitTime(ms): 718
+[Producer 1] Produced task 470 Type: CPU Priority: 8
+[Producer 2] Produced task 471 Type: CPU Priority: 83
+[Consumer 1] Consumed task 471 Type: CPU Priority: 83 WaitTime(ms): 3
+[Producer 1] Produced task 472 Type: IO Priority: 57
+[Producer 2] Produced task 473 Type: CPU Priority: 27
+[Consumer 2] Consumed task 472 Type: IO Priority: 57 WaitTime(ms): 5
+[Producer 1] Produced task 474 Type: IO Priority: 69
+[Producer 2] Produced task 475 Type: IO Priority: 51
+[Consumer 1] Consumed task 474 Type: IO Priority: 69 WaitTime(ms): 13
+[Consumer 2] Consumed task 448 Type: IO Priority: 54 WaitTime(ms): 284
+[Producer 1] Produced task 476 Type: CPU Priority: 10
+[Producer 2] Produced task 477 Type: CPU Priority: 39
+[Producer 1] Produced task 478 Type: CPU Priority: 88
+[Producer 2] Produced task 479 Type: IO Priority: 93
+[Consumer 1] Consumed task 479 Type: IO Priority: 93 WaitTime(ms): 2
+[Consumer 2] Consumed task 478 Type: CPU Priority: 88 WaitTime(ms): 4
+[Producer 1] Produced task 480 Type: CPU Priority: 90
+[Producer 2] Produced task 481 Type: CPU Priority: 99
+[Consumer 1] Consumed task 481 Type: CPU Priority: 99 WaitTime(ms): 12
+[Producer 1] Produced task 482 Type: IO Priority: 31
+[Producer 2] Produced task 483 Type: IO Priority: 77
+[Consumer 2] Consumed task 480 Type: CPU Priority: 90 WaitTime(ms): 35
+[Producer 1] Produced task 484 Type: CPU Priority: 57
+[Producer 2] Produced task 485 Type: IO Priority: 52
+[Producer 1] Produced task 486 Type: IO Priority: 41
+[Producer 2] Produced task 487 Type: CPU Priority: 68
+[Consumer 1] Consumed task 483 Type: IO Priority: 77 WaitTime(ms): 42
+[Producer 1] Produced task 488 Type: IO Priority: 84
+[Producer 2] Produced task 489 Type: IO Priority: 76
+[Consumer 2] Consumed task 488 Type: IO Priority: 84 WaitTime(ms): 2
+[Consumer 1] Consumed task 489 Type: IO Priority: 76 WaitTime(ms): 11
+[Producer 1] Produced task 490 Type: CPU Priority: 66
+[Producer 2] Produced task 491 Type: CPU Priority: 54
+[Consumer 2] Consumed task 487 Type: CPU Priority: 68 WaitTime(ms): 53
+[Producer 1] Produced task 492 Type: IO Priority: 8
+[Producer 2] Produced task 493 Type: IO Priority: 78
+[Consumer 1] Consumed task 493 Type: IO Priority: 78 WaitTime(ms): 1
+[Producer 1] Produced task 494 Type: CPU Priority: 55
+[Producer 2] Produced task 495 Type: IO Priority: 74
+[Consumer 1] Consumed task 495 Type: IO Priority: 74 WaitTime(ms): 11
+[Consumer 2] Consumed task 490 Type: CPU Priority: 66 WaitTime(ms): 64
+[Producer 1] Produced task 496 Type: IO Priority: 0
+[Producer 2] Produced task 497 Type: IO Priority: 97
+[Producer 1] Produced task 498 Type: IO Priority: 12
+[Consumer 1] Consumed task 497 Type: IO Priority: 97 WaitTime(ms): 20
+[Producer 2] Produced task 499 Type: IO Priority: 82
+[Producer 1] Produced task 500 Type: CPU Priority: 93
+[Producer 2] Produced task 501 Type: CPU Priority: 39
+[Consumer 2] Consumed task 500 Type: CPU Priority: 93 WaitTime(ms): 7
+[Consumer 1] Consumed task 499 Type: IO Priority: 82 WaitTime(ms): 29
+[Producer 1] Produced task 502 Type: IO Priority: 21
+[Producer 2] Produced task 503 Type: IO Priority: 85
+[Consumer 1] Consumed task 503 Type: IO Priority: 85 WaitTime(ms): 18
+[Producer 1] Produced task 504 Type: IO Priority: 54
+[Producer 2] Produced task 505 Type: CPU Priority: 62
+[Consumer 2] Consumed task 505 Type: CPU Priority: 62 WaitTime(ms): 15
+[Producer 1] Produced task 506 Type: CPU Priority: 41
+[Producer 2] Produced task 507 Type: CPU Priority: 52
+[Consumer 1] Consumed task 484 Type: CPU Priority: 57 WaitTime(ms): 242
+[Producer 1] Produced task 508 Type: CPU Priority: 62
+[Producer 2] Produced task 509 Type: IO Priority: 99
+[Producer 1] Produced task 510 Type: IO Priority: 54
+[Producer 2] Produced task 511 Type: CPU Priority: 15
+[Consumer 2] Consumed task 509 Type: IO Priority: 99 WaitTime(ms): 24
+[Consumer 1] Consumed task 508 Type: CPU Priority: 62 WaitTime(ms): 39
+[Producer 1] Produced task 512 Type: CPU Priority: 51
+[Producer 2] Produced task 513 Type: IO Priority: 90
+[Consumer 2] Consumed task 513 Type: IO Priority: 90 WaitTime(ms): 14
+[Producer 1] Produced task 514 Type: CPU Priority: 91
+[Producer 2] Produced task 515 Type: IO Priority: 37
+[Producer 1] Produced task 516 Type: CPU Priority: 59
+[Producer 2] Produced task 517 Type: CPU Priority: 71
+[Consumer 2] Consumed task 514 Type: CPU Priority: 91 WaitTime(ms): 25
+[Consumer 1] Consumed task 517 Type: CPU Priority: 71 WaitTime(ms): 4
+[Producer 1] Produced task 518 Type: CPU Priority: 87
+[Producer 2] Produced task 519 Type: IO Priority: 90
+[Producer 1] Produced task 520 Type: CPU Priority: 70
+[Producer 2] Produced task 521 Type: IO Priority: 65
+[Consumer 2] Consumed task 519 Type: IO Priority: 90 WaitTime(ms): 32
+[Consumer 1] Consumed task 518 Type: CPU Priority: 87 WaitTime(ms): 34
+[Producer 1] Produced task 522 Type: IO Priority: 69
+[Producer 2] Produced task 523 Type: IO Priority: 61
+[Producer 1] Produced task 524 Type: CPU Priority: 51
+[Producer 2] Produced task 525 Type: CPU Priority: 0
+[Consumer 2] Consumed task 520 Type: CPU Priority: 70 WaitTime(ms): 42
+[Producer 1] Produced task 526 Type: IO Priority: 38
+[Producer 2] Produced task 527 Type: IO Priority: 64
+[Consumer 1] Consumed task 522 Type: IO Priority: 69 WaitTime(ms): 44
+[Producer 1] Produced task 528 Type: CPU Priority: 32
+[Producer 2] Produced task 529 Type: IO Priority: 4
+[Consumer 2] Consumed task 521 Type: IO Priority: 65 WaitTime(ms): 93
+[Consumer 1] Consumed task 527 Type: IO Priority: 64 WaitTime(ms): 33
+[Producer 1] Produced task 530 Type: IO Priority: 79
+[Producer 2] Produced task 531 Type: CPU Priority: 12
+[Consumer 2] Consumed task 530 Type: IO Priority: 79 WaitTime(ms): 19
+[Producer 1] Produced task 532 Type: CPU Priority: 69
+[Consumer 1] Consumed task 532 Type: CPU Priority: 69 WaitTime(ms): 1
+[Producer 2] Produced task 533 Type: CPU Priority: 70
+[Producer 1] Produced task 534 Type: CPU Priority: 44
+[Producer 2] Produced task 535 Type: CPU Priority: 49
+[Consumer 2] Consumed task 533 Type: CPU Priority: 70 WaitTime(ms): 25
+[Producer 1] Produced task 536 Type: CPU Priority: 65
+[Producer 2] Produced task 537 Type: CPU Priority: 26
+[Consumer 1] Consumed task 536 Type: CPU Priority: 65 WaitTime(ms): 10
+[Producer 1] Produced task 538 Type: IO Priority: 83
+[Producer 2] Produced task 539 Type: IO Priority: 69
+[Consumer 2] Consumed task 538 Type: IO Priority: 83 WaitTime(ms): 15
+[Producer 1] Produced task 540 Type: IO Priority: 52
+[Producer 2] Produced task 541 Type: CPU Priority: 93
+[Consumer 1] Consumed task 541 Type: CPU Priority: 93 WaitTime(ms): 17
+[Producer 1] Produced task 542 Type: IO Priority: 89
+[Producer 2] Produced task 543 Type: IO Priority: 31
+[Consumer 2] Consumed task 542 Type: IO Priority: 89 WaitTime(ms): 5
+[Producer 1] Produced task 544 Type: IO Priority: 64
+[Producer 2] Produced task 545 Type: IO Priority: 48
+[Consumer 2] Consumed task 539 Type: IO Priority: 69 WaitTime(ms): 75
+[Producer 1] Produced task 546 Type: IO Priority: 77
+[Producer 2] Produced task 547 Type: CPU Priority: 33
+[Consumer 1] Consumed task 546 Type: IO Priority: 77 WaitTime(ms): 7
+[Producer 1] Produced task 548 Type: IO Priority: 49
+[Producer 2] Produced task 549 Type: IO Priority: 55
+[Consumer 2] Consumed task 544 Type: IO Priority: 64 WaitTime(ms): 46
+[Consumer 1] Consumed task 523 Type: IO Priority: 61 WaitTime(ms): 293
+[Producer 1] Produced task 550 Type: CPU Priority: 68
+[Producer 2] Produced task 551 Type: IO Priority: 60
+[Consumer 2] Consumed task 550 Type: CPU Priority: 68 WaitTime(ms): 13
+[Producer 1] Produced task 552 Type: CPU Priority: 23
+[Producer 2] Produced task 553 Type: CPU Priority: 71
+[Consumer 1] Consumed task 553 Type: CPU Priority: 71 WaitTime(ms): 3
+[Producer 1] Produced task 554 Type: CPU Priority: 77
+[Producer 2] Produced task 555 Type: IO Priority: 45
+[Producer 1] Produced task 556 Type: CPU Priority: 61
+[Consumer 2] Consumed task 554 Type: CPU Priority: 77 WaitTime(ms): 22
+[Producer 2] Produced task 557 Type: CPU Priority: 23
+[Consumer 1] Consumed task 556 Type: CPU Priority: 61 WaitTime(ms): 14
+[Producer 1] Produced task 558 Type: CPU Priority: 0
+[Producer 2] Produced task 559 Type: CPU Priority: 75
+[Producer 1] Produced task 560 Type: CPU Priority: 42
+[Producer 2] Produced task 561 Type: IO Priority: 59
+[Consumer 2] Consumed task 559 Type: CPU Priority: 75 WaitTime(ms): 28
+[Producer 1] Produced task 562 Type: CPU Priority: 89
+[Producer 2] Produced task 563 Type: CPU Priority: 69
+[Consumer 1] Consumed task 562 Type: CPU Priority: 89 WaitTime(ms): 3
+[Producer 1] Produced task 564 Type: CPU Priority: 51
+[Producer 2] Produced task 565 Type: IO Priority: 83
+[Consumer 2] Consumed task 565 Type: IO Priority: 83 WaitTime(ms): 17
+[Producer 1] Produced task 566 Type: IO Priority: 33
+[Producer 2] Produced task 567 Type: CPU Priority: 4
+[Consumer 1] Consumed task 563 Type: CPU Priority: 69 WaitTime(ms): 51
+[Producer 1] Produced task 568 Type: IO Priority: 81
+[Producer 2] Produced task 569 Type: IO Priority: 66
+[Consumer 2] Consumed task 568 Type: IO Priority: 81 WaitTime(ms): 9
+[Producer 1] Produced task 570 Type: CPU Priority: 67
+[Producer 2] Produced task 571 Type: IO Priority: 92
+[Consumer 2] Consumed task 571 Type: IO Priority: 92 WaitTime(ms): 16
+[Consumer 1] Consumed task 570 Type: CPU Priority: 67 WaitTime(ms): 21
+[Producer 1] Produced task 572 Type: CPU Priority: 2
+[Producer 2] Produced task 573 Type: CPU Priority: 31
+[Producer 1] Produced task 574 Type: IO Priority: 74
+[Producer 2] Produced task 575 Type: CPU Priority: 18
+[Consumer 2] Consumed task 574 Type: IO Priority: 74 WaitTime(ms): 6
+[Producer 1] Produced task 576 Type: IO Priority: 83
+[Producer 2] Produced task 577 Type: CPU Priority: 87
+[Consumer 1] Consumed task 577 Type: CPU Priority: 87 WaitTime(ms): 5
+[Consumer 2] Consumed task 576 Type: IO Priority: 83 WaitTime(ms): 15
+[Producer 1] Produced task 578 Type: IO Priority: 73
+[Producer 2] Produced task 579 Type: IO Priority: 62
+[Producer 1] Produced task 580 Type: IO Priority: 33
+[Producer 2] Produced task 581 Type: CPU Priority: 96
+[Consumer 2] Consumed task 581 Type: CPU Priority: 96 WaitTime(ms): 3
+[Consumer 1] Consumed task 578 Type: IO Priority: 73 WaitTime(ms): 37
+[Producer 1] Produced task 582 Type: IO Priority: 41
+[Producer 2] Produced task 583 Type: CPU Priority: 26
+[Producer 1] Produced task 584 Type: IO Priority: 80
+[Producer 2] Produced task 585 Type: CPU Priority: 85
+[Consumer 1] Consumed task 585 Type: CPU Priority: 85 WaitTime(ms): 3
+[Consumer 2] Consumed task 584 Type: IO Priority: 80 WaitTime(ms): 15
+[Producer 1] Produced task 586 Type: CPU Priority: 5
+[Producer 2] Produced task 587 Type: IO Priority: 29
+[Producer 1] Produced task 588 Type: CPU Priority: 98
+[Producer 2] Produced task 589 Type: CPU Priority: 62
+[Consumer 2] Consumed task 588 Type: CPU Priority: 98 WaitTime(ms): 4
+[Consumer 1] Consumed task 569 Type: IO Priority: 66 WaitTime(ms): 224
+[Producer 1] Produced task 590 Type: CPU Priority: 19
+[Producer 2] Produced task 591 Type: CPU Priority: 41
+[Producer 1] Produced task 592 Type: CPU Priority: 10
+[Producer 2] Produced task 593 Type: IO Priority: 26
+[Consumer 1] Consumed task 579 Type: IO Priority: 62 WaitTime(ms): 147
+[Consumer 2] Consumed task 589 Type: CPU Priority: 62 WaitTime(ms): 52
+[Producer 1] Produced task 594 Type: CPU Priority: 89
+[Producer 2] Produced task 595 Type: IO Priority: 8
+[Consumer 1] Consumed task 594 Type: CPU Priority: 89 WaitTime(ms): 14
+[Producer 1] Produced task 596 Type: IO Priority: 38
+[Producer 2] Produced task 597 Type: IO Priority: 93
+[Producer 1] Produced task 598 Type: CPU Priority: 10
+[Producer 2] Produced task 599 Type: CPU Priority: 5
+[Consumer 2] Consumed task 597 Type: IO Priority: 93 WaitTime(ms): 20
+[Producer 1] Produced task 600 Type: IO Priority: 13
+[Producer 2] Produced task 601 Type: CPU Priority: 38
+[Consumer 1] Consumed task 551 Type: IO Priority: 60 WaitTime(ms): 526
+[Consumer 2] Consumed task 516 Type: CPU Priority: 59 WaitTime(ms): 898
+[Producer 1] Produced task 602 Type: IO Priority: 21
+[Producer 2] Produced task 603 Type: IO Priority: 29
+[Consumer 1] Consumed task 561 Type: IO Priority: 59 WaitTime(ms): 450
+[Producer 1] Produced task 604 Type: IO Priority: 80
+[Producer 2] Produced task 605 Type: IO Priority: 95
+[Producer 1] Produced task 606 Type: CPU Priority: 24
+[Consumer 2] Consumed task 605 Type: IO Priority: 95 WaitTime(ms): 20
+[Producer 2] Produced task 607 Type: CPU Priority: 54
+[Consumer 1] Consumed task 604 Type: IO Priority: 80 WaitTime(ms): 22
+[Producer 1] Produced task 608 Type: CPU Priority: 69
+[Producer 2] Produced task 609 Type: CPU Priority: 69
+[Consumer 2] Consumed task 608 Type: CPU Priority: 69 WaitTime(ms): 10
+[Consumer 1] Consumed task 609 Type: CPU Priority: 69 WaitTime(ms): 11
+[Producer 1] Produced task 610 Type: CPU Priority: 73
+[Producer 2] Produced task 611 Type: IO Priority: 33
+[Producer 1] Produced task 612 Type: IO Priority: 87
+[Producer 2] Produced task 613 Type: IO Priority: 94
+[Consumer 2] Consumed task 613 Type: IO Priority: 94 WaitTime(ms): 19
+[Producer 1] Produced task 614 Type: IO Priority: 99
+[Producer 2] Produced task 615 Type: CPU Priority: 39
+[Consumer 1] Consumed task 614 Type: IO Priority: 99 WaitTime(ms): 1
+[Producer 1] Produced task 616 Type: CPU Priority: 42
+[Producer 2] Produced task 617 Type: IO Priority: 86
+[Consumer 2] Consumed task 612 Type: IO Priority: 87 WaitTime(ms): 50
+[Consumer 1] Consumed task 617 Type: IO Priority: 86 WaitTime(ms): 10
+[Producer 1] Produced task 618 Type: IO Priority: 49
+[Producer 2] Produced task 619 Type: IO Priority: 86
+[Consumer 2] Consumed task 619 Type: IO Priority: 86 WaitTime(ms): 19
+[Producer 1] Produced task 620 Type: CPU Priority: 11
+[Consumer 1] Consumed task 610 Type: CPU Priority: 73 WaitTime(ms): 103
+[Producer 2] Produced task 621 Type: IO Priority: 33
+[Producer 1] Produced task 622 Type: IO Priority: 22
+[Producer 2] Produced task 623 Type: IO Priority: 73
+[Consumer 2] Consumed task 623 Type: IO Priority: 73 WaitTime(ms): 8
+[Producer 1] Produced task 624 Type: CPU Priority: 19
+[Producer 2] Produced task 625 Type: CPU Priority: 54
+[Consumer 1] Consumed task 494 Type: CPU Priority: 55 WaitTime(ms): 1378
+[Consumer 2] Consumed task 549 Type: IO Priority: 55 WaitTime(ms): 812
+[Producer 1] Produced task 626 Type: IO Priority: 24
+[Producer 2] Produced task 627 Type: IO Priority: 59
+[Producer 1] Produced task 628 Type: IO Priority: 18
+[Producer 2] Produced task 629 Type: IO Priority: 12
+[Consumer 2] Consumed task 627 Type: IO Priority: 59 WaitTime(ms): 29
+[Consumer 1] Consumed task 504 Type: IO Priority: 54 WaitTime(ms): 1322
+[Producer 1] Produced task 630 Type: CPU Priority: 5
+[Producer 2] Produced task 631 Type: IO Priority: 33
+[Consumer 2] Consumed task 510 Type: IO Priority: 54 WaitTime(ms): 1280
+[Producer 1] Produced task 632 Type: IO Priority: 34
+[Producer 2] Produced task 633 Type: IO Priority: 15
+[Consumer 1] Consumed task 491 Type: CPU Priority: 54 WaitTime(ms): 1502
+[Producer 1] Produced task 634 Type: IO Priority: 87
+[Producer 2] Produced task 635 Type: CPU Priority: 69
+[Consumer 2] Consumed task 634 Type: IO Priority: 87 WaitTime(ms): 7
+[Producer 1] Produced task 636 Type: CPU Priority: 87
+[Producer 2] Produced task 637 Type: CPU Priority: 37
+[Consumer 1] Consumed task 636 Type: CPU Priority: 87 WaitTime(ms): 16
+[Consumer 2] Consumed task 635 Type: CPU Priority: 69 WaitTime(ms): 37
+[Producer 1] Produced task 638 Type: CPU Priority: 89
+[Producer 2] Produced task 639 Type: CPU Priority: 5
+[Producer 1] Produced task 640 Type: IO Priority: 4
+[Producer 2] Produced task 641 Type: IO Priority: 57
+[Producer 1] Produced task 642 Type: CPU Priority: 3
+[Producer 2] Produced task 643 Type: IO Priority: 92
+[Consumer 1] Consumed task 643 Type: IO Priority: 92 WaitTime(ms): 2
+[Consumer 2] Consumed task 638 Type: CPU Priority: 89 WaitTime(ms): 46
+[Producer 1] Produced task 644 Type: IO Priority: 22
+[Producer 2] Produced task 645 Type: IO Priority: 43
+[Consumer 1] Consumed task 641 Type: IO Priority: 57 WaitTime(ms): 54
+[Producer 1] Produced task 646 Type: CPU Priority: 61
+[Producer 2] Produced task 647 Type: IO Priority: 78
+[Consumer 2] Consumed task 647 Type: IO Priority: 78 WaitTime(ms): 12
+[Producer 1] Produced task 648 Type: IO Priority: 0
+[Producer 2] Produced task 649 Type: IO Priority: 82
+[Consumer 1] Consumed task 649 Type: IO Priority: 82 WaitTime(ms): 2
+[Producer 1] Produced task 650 Type: IO Priority: 99
+[Producer 2] Produced task 651 Type: CPU Priority: 89
+[Consumer 2] Consumed task 650 Type: IO Priority: 99 WaitTime(ms): 3
+[Consumer 1] Consumed task 651 Type: CPU Priority: 89 WaitTime(ms): 12
+[Producer 1] Produced task 652 Type: CPU Priority: 53
+[Producer 2] Produced task 653 Type: CPU Priority: 48
+[Consumer 2] Consumed task 646 Type: CPU Priority: 61 WaitTime(ms): 75
+[Producer 1] Produced task 654 Type: CPU Priority: 36
+[Producer 2] Produced task 655 Type: CPU Priority: 7
+[Producer 1] Produced task 656 Type: CPU Priority: 17
+[Producer 2] Produced task 657 Type: CPU Priority: 21
+[Consumer 1] Consumed task 393 Type: IO Priority: 54 WaitTime(ms): 2762
+[Producer 1] Produced task 658 Type: CPU Priority: 80
+[Producer 2] Produced task 659 Type: CPU Priority: 94
+[Consumer 2] Consumed task 659 Type: CPU Priority: 94 WaitTime(ms): 0
+[Consumer 1] Consumed task 658 Type: CPU Priority: 80 WaitTime(ms): 12
+[Producer 1] Produced task 660 Type: IO Priority: 23
+[Producer 2] Produced task 661 Type: CPU Priority: 33
+[Producer 1] Produced task 662 Type: CPU Priority: 17
+[Producer 2] Produced task 663 Type: IO Priority: 31
+[Consumer 2] Consumed task 607 Type: CPU Priority: 54 WaitTime(ms): 593
+[Producer 1] Produced task 664 Type: IO Priority: 9
+[Consumer 1] Consumed task 625 Type: CPU Priority: 54 WaitTime(ms): 417
+[Producer 2] Produced task 665 Type: CPU Priority: 56
+[Producer 1] Produced task 666 Type: IO Priority: 69
+[Producer 2] Produced task 667 Type: CPU Priority: 95
+[Consumer 2] Consumed task 667 Type: CPU Priority: 95 WaitTime(ms): 19
+[Producer 1] Produced task 668 Type: IO Priority: 71
+[Producer 2] Produced task 669 Type: IO Priority: 69
+[Consumer 1] Consumed task 668 Type: IO Priority: 71 WaitTime(ms): 9
+[Producer 1] Produced task 670 Type: CPU Priority: 1
+[Producer 2] Produced task 671 Type: IO Priority: 52
+[Consumer 1] Consumed task 666 Type: IO Priority: 69 WaitTime(ms): 61
+[Producer 1] Produced task 672 Type: IO Priority: 40
+[Producer 2] Produced task 673 Type: CPU Priority: 43
+[Consumer 2] Consumed task 669 Type: IO Priority: 69 WaitTime(ms): 49
+[Producer 1] Produced task 674 Type: IO Priority: 91
+[Producer 2] Produced task 675 Type: CPU Priority: 27
+[Consumer 1] Consumed task 674 Type: IO Priority: 91 WaitTime(ms): 9
+[Consumer 2] Consumed task 665 Type: CPU Priority: 56 WaitTime(ms): 121
+[Producer 1] Produced task 676 Type: CPU Priority: 78
+[Producer 2] Produced task 677 Type: CPU Priority: 50
+[Consumer 1] Consumed task 676 Type: CPU Priority: 78 WaitTime(ms): 19
+[Producer 1] Produced task 678 Type: IO Priority: 24
+[Producer 2] Produced task 679 Type: CPU Priority: 13
+[Producer 1] Produced task 680 Type: CPU Priority: 99
+[Producer 2] Produced task 681 Type: CPU Priority: 94
+[Consumer 2] Consumed task 680 Type: CPU Priority: 99 WaitTime(ms): 7
+[Producer 1] Produced task 682 Type: IO Priority: 15
+[Producer 2] Produced task 683 Type: IO Priority: 42
+[Consumer 1] Consumed task 681 Type: CPU Priority: 94 WaitTime(ms): 27
+[Producer 1] Produced task 684 Type: IO Priority: 37
+[Producer 2] Produced task 685 Type: CPU Priority: 98
+[Consumer 2] Consumed task 685 Type: CPU Priority: 98 WaitTime(ms): 16
+[Producer 1] Produced task 686 Type: CPU Priority: 39
+[Producer 2] Produced task 687 Type: IO Priority: 13
+[Consumer 1] Consumed task 407 Type: IO Priority: 53 WaitTime(ms): 2942
+[Producer 1] Produced task 688 Type: IO Priority: 28
+[Producer 2] Produced task 689 Type: IO Priority: 4
+[Producer 1] Produced task 690 Type: IO Priority: 46
+[Producer 2] Produced task 691 Type: IO Priority: 38
+[Consumer 2] Consumed task 652 Type: CPU Priority: 53 WaitTime(ms): 400
+[Consumer 1] Consumed task 507 Type: CPU Priority: 52 WaitTime(ms): 1933
+[Producer 1] Produced task 692 Type: CPU Priority: 95
+[Producer 2] Produced task 693 Type: CPU Priority: 21
+[Producer 1] Produced task 694 Type: CPU Priority: 26
+[Producer 2] Produced task 695 Type: IO Priority: 58
+[Consumer 2] Consumed task 692 Type: CPU Priority: 95 WaitTime(ms): 35
+[Consumer 1] Consumed task 695 Type: IO Priority: 58 WaitTime(ms): 14
+[Producer 1] Produced task 696 Type: CPU Priority: 56
+[Producer 2] Produced task 697 Type: CPU Priority: 45
+[Producer 2] Produced task 698 Type: IO Priority: 46
+[Producer 1] Produced task 699 Type: IO Priority: 11
+[Consumer 1] Consumed task 696 Type: CPU Priority: 56 WaitTime(ms): 24
+[Producer 2] Produced task 700 Type: IO Priority: 3
+[Producer 1] Produced task 701 Type: CPU Priority: 25
+[Consumer 2] Consumed task 415 Type: IO Priority: 52 WaitTime(ms): 2991
+[Producer 2] Produced task 702 Type: IO Priority: 16
+[Producer 1] Produced task 703 Type: CPU Priority: 74
+[Consumer 2] Consumed task 703 Type: CPU Priority: 74 WaitTime(ms): 12
+[Consumer 1] Consumed task 485 Type: IO Priority: 52 WaitTime(ms): 2299
+[Producer 2] Produced task 704 Type: CPU Priority: 96
+[Producer 1] Produced task 705 Type: CPU Priority: 67
+[Producer 2] Produced task 706 Type: IO Priority: 13
+[Producer 1] Produced task 707 Type: CPU Priority: 19
+[Consumer 1] Consumed task 704 Type: CPU Priority: 96 WaitTime(ms): 23
+[Producer 2] Produced task 708 Type: CPU Priority: 50
+[Producer 1] Produced task 709 Type: CPU Priority: 32
+[Consumer 2] Consumed task 705 Type: CPU Priority: 67 WaitTime(ms): 42
+[Producer 2] Produced task 710 Type: CPU Priority: 79
+[Producer 1] Produced task 711 Type: IO Priority: 53
+[Consumer 1] Consumed task 710 Type: CPU Priority: 79 WaitTime(ms): 12
+[Producer 2] Produced task 712 Type: CPU Priority: 95
+[Producer 1] Produced task 713 Type: IO Priority: 7
+[Consumer 2] Consumed task 712 Type: CPU Priority: 95 WaitTime(ms): 10
+[Producer 2] Produced task 714 Type: CPU Priority: 37
+[Producer 1] Produced task 715 Type: CPU Priority: 76
+[Producer 2] Produced task 716 Type: IO Priority: 84
+[Consumer 1] Consumed task 716 Type: IO Priority: 84 WaitTime(ms): 1
+[Producer 1] Produced task 717 Type: CPU Priority: 83
+[Consumer 2] Consumed task 717 Type: CPU Priority: 83 WaitTime(ms): 16
+[Producer 2] Produced task 718 Type: IO Priority: 92
+[Producer 1] Produced task 719 Type: CPU Priority: 96
+[Consumer 1] Consumed task 719 Type: CPU Priority: 96 WaitTime(ms): 8
+[Producer 2] Produced task 720 Type: IO Priority: 39
+[Producer 1] Produced task 721 Type: CPU Priority: 35
+[Producer 2] Produced task 722 Type: CPU Priority: 73
+[Producer 1] Produced task 723 Type: IO Priority: 64
+[Consumer 2] Consumed task 718 Type: IO Priority: 92 WaitTime(ms): 49
+[Consumer 1] Consumed task 715 Type: CPU Priority: 76 WaitTime(ms): 105
+[Producer 2] Produced task 724 Type: IO Priority: 51
+[Producer 1] Produced task 725 Type: CPU Priority: 51
+[Consumer 2] Consumed task 722 Type: CPU Priority: 73 WaitTime(ms): 38
+[Producer 2] Produced task 726 Type: CPU Priority: 39
+[Producer 1] Produced task 727 Type: CPU Priority: 65
+[Producer 2] Produced task 728 Type: IO Priority: 2
+[Producer 1] Produced task 729 Type: IO Priority: 79
+[Consumer 1] Consumed task 729 Type: IO Priority: 79 WaitTime(ms): 3
+[Producer 2] Produced task 730 Type: IO Priority: 47
+[Producer 1] Produced task 731 Type: IO Priority: 84
+[Consumer 2] Consumed task 731 Type: IO Priority: 84 WaitTime(ms): 1
+[Consumer 1] Consumed task 727 Type: CPU Priority: 65 WaitTime(ms): 55
+[Producer 2] Produced task 732 Type: IO Priority: 61
+[Producer 1] Produced task 733 Type: IO Priority: 31
+[Consumer 2] Consumed task 723 Type: IO Priority: 64 WaitTime(ms): 117
+[Producer 2] Produced task 734 Type: IO Priority: 28
+[Producer 1] Produced task 735 Type: IO Priority: 94
+[Producer 2] Produced task 736 Type: IO Priority: 43
+[Producer 1] Produced task 737 Type: CPU Priority: 23
+[Consumer 2] Consumed task 735 Type: IO Priority: 94 WaitTime(ms): 21
+[Consumer 1] Consumed task 732 Type: IO Priority: 61 WaitTime(ms): 46
+[Producer 2] Produced task 738 Type: IO Priority: 87
+[Producer 1] Produced task 739 Type: CPU Priority: 43
+[Consumer 2] Consumed task 738 Type: IO Priority: 87 WaitTime(ms): 13
+[Consumer 1] Consumed task 711 Type: IO Priority: 53 WaitTime(ms): 311
+[Producer 2] Produced task 740 Type: CPU Priority: 88
+[Producer 1] Produced task 741 Type: CPU Priority: 20
+[Producer 2] Produced task 742 Type: CPU Priority: 98
+[Consumer 2] Consumed task 742 Type: CPU Priority: 98 WaitTime(ms): 1
+[Producer 1] Produced task 743 Type: CPU Priority: 18
+[Consumer 1] Consumed task 740 Type: CPU Priority: 88 WaitTime(ms): 26
+[Producer 2] Produced task 744 Type: CPU Priority: 63
+[Producer 1] Produced task 745 Type: CPU Priority: 95
+[Producer 2] Produced task 746 Type: IO Priority: 5
+[Producer 1] Produced task 747 Type: CPU Priority: 42
+[Consumer 2] Consumed task 745 Type: CPU Priority: 95 WaitTime(ms): 28
+[Consumer 1] Consumed task 744 Type: CPU Priority: 63 WaitTime(ms): 34
+[Producer 2] Produced task 748 Type: IO Priority: 98
+[Producer 1] Produced task 749 Type: CPU Priority: 72
+[Producer 2] Produced task 750 Type: CPU Priority: 53
+[Producer 1] Produced task 751 Type: CPU Priority: 97
+[Consumer 2] Consumed task 748 Type: IO Priority: 98 WaitTime(ms): 39
+[Producer 2] Produced task 752 Type: CPU Priority: 47
+[Consumer 1] Consumed task 751 Type: CPU Priority: 97 WaitTime(ms): 21
+[Producer 1] Produced task 753 Type: CPU Priority: 16
+[Producer 2] Produced task 754 Type: IO Priority: 12
+[Producer 1] Produced task 755 Type: CPU Priority: 77
+[Consumer 2] Consumed task 755 Type: CPU Priority: 77 WaitTime(ms): 3
+[Producer 2] Produced task 756 Type: IO Priority: 53
+[Producer 1] Produced task 757 Type: IO Priority: 32
+[Consumer 1] Consumed task 749 Type: CPU Priority: 72 WaitTime(ms): 94
+[Producer 2] Produced task 758 Type: IO Priority: 35
+[Producer 1] Produced task 759 Type: CPU Priority: 7
+[Consumer 2] Consumed task 750 Type: CPU Priority: 53 WaitTime(ms): 102
+[Producer 2] Produced task 760 Type: CPU Priority: 49
+[Producer 1] Produced task 761 Type: CPU Priority: 61
+[Consumer 1] Consumed task 761 Type: CPU Priority: 61 WaitTime(ms): 14
+[Producer 2] Produced task 762 Type: IO Priority: 34
+[Producer 1] Produced task 763 Type: CPU Priority: 25
+[Producer 2] Produced task 764 Type: IO Priority: 28
+[Consumer 2] Consumed task 756 Type: IO Priority: 53 WaitTime(ms): 88
+[Producer 1] Produced task 765 Type: IO Priority: 63
+[Producer 2] Produced task 766 Type: CPU Priority: 15
+[Producer 1] Produced task 767 Type: CPU Priority: 81
+[Consumer 1] Consumed task 767 Type: CPU Priority: 81 WaitTime(ms): 2
+[Consumer 2] Consumed task 765 Type: IO Priority: 63 WaitTime(ms): 29
+[Producer 2] Produced task 768 Type: IO Priority: 85
+[Producer 1] Produced task 769 Type: IO Priority: 0
+[Producer 2] Produced task 770 Type: IO Priority: 8
+[Consumer 2] Consumed task 768 Type: IO Priority: 85 WaitTime(ms): 22
+[Producer 1] Produced task 771 Type: IO Priority: 49
+[Consumer 1] Consumed task 671 Type: IO Priority: 52 WaitTime(ms): 1069
+[Producer 2] Produced task 772 Type: CPU Priority: 79
+[Producer 1] Produced task 773 Type: CPU Priority: 16
+[Consumer 2] Consumed task 772 Type: CPU Priority: 79 WaitTime(ms): 11
+[Producer 2] Produced task 774 Type: IO Priority: 85
+[Consumer 1] Consumed task 774 Type: IO Priority: 85 WaitTime(ms): 3
+[Producer 1] Produced task 775 Type: CPU Priority: 65
+[Producer 2] Produced task 776 Type: CPU Priority: 30
+[Producer 1] Produced task 777 Type: CPU Priority: 92
+[Consumer 1] Consumed task 777 Type: CPU Priority: 92 WaitTime(ms): -1494
+[Consumer 2] Consumed task 775 Type: CPU Priority: 65 WaitTime(ms): -1466
+[Producer 2] Produced task 778 Type: IO Priority: 29
+[Producer 1] Produced task 779 Type: IO Priority: 52
+[Producer 2] Produced task 780 Type: IO Priority: 66
+[Producer 1] Produced task 781 Type: IO Priority: 95
+[Producer 2] Produced task 782 Type: CPU Priority: 28
+[Consumer 1] Consumed task 781 Type: IO Priority: 95 WaitTime(ms): 17
+[Producer 1] Produced task 783 Type: IO Priority: 47
+[Consumer 2] Consumed task 780 Type: IO Priority: 66 WaitTime(ms): 28
+[Producer 2] Produced task 784 Type: CPU Priority: 26
+[Producer 1] Produced task 785 Type: CPU Priority: 62
+[Consumer 1] Consumed task 785 Type: CPU Priority: 62 WaitTime(ms): 6
+[Consumer 2] Consumed task 540 Type: IO Priority: 52 WaitTime(ms): 1079
+[Producer 2] Produced task 786 Type: IO Priority: 29
+[Producer 1] Produced task 787 Type: CPU Priority: 0
+[Producer 2] Produced task 788 Type: CPU Priority: 97
+[Producer 1] Produced task 789 Type: CPU Priority: 75
+[Consumer 2] Consumed task 788 Type: CPU Priority: 97 WaitTime(ms): 5
+[Consumer 1] Consumed task 789 Type: CPU Priority: 75 WaitTime(ms): 15
+[Producer 2] Produced task 790 Type: CPU Priority: 44
+[Producer 1] Produced task 791 Type: CPU Priority: 20
+[Producer 2] Produced task 792 Type: IO Priority: 18
+[Producer 1] Produced task 793 Type: IO Priority: 94
+[Consumer 2] Consumed task 793 Type: IO Priority: 94 WaitTime(ms): 9
+[Producer 2] Produced task 794 Type: CPU Priority: 34
+[Producer 1] Produced task 795 Type: IO Priority: 8
+[Consumer 1] Consumed task 779 Type: IO Priority: 52 WaitTime(ms): 172
+[Producer 2] Produced task 796 Type: IO Priority: 62
+[Consumer 2] Consumed task 796 Type: IO Priority: 62 WaitTime(ms): 2
+[Producer 1] Produced task 797 Type: CPU Priority: 86
+[Consumer 1] Consumed task 797 Type: CPU Priority: 86 WaitTime(ms): 11
+[Producer 2] Produced task 798 Type: CPU Priority: 32
+[Producer 1] Produced task 799 Type: CPU Priority: 7
+[Consumer 2] Consumed task 512 Type: CPU Priority: 51 WaitTime(ms): 1524
+[Producer 2] Produced task 800 Type: IO Priority: 34
+[Producer 1] Produced task 801 Type: IO Priority: 96
+[Producer 2] Produced task 802 Type: CPU Priority: 84
+[Consumer 1] Consumed task 801 Type: IO Priority: 96 WaitTime(ms): 19
+[Producer 1] Produced task 803 Type: CPU Priority: 24
+[Consumer 2] Consumed task 802 Type: CPU Priority: 84 WaitTime(ms): 21
+[Producer 2] Produced task 804 Type: IO Priority: 65
+[Producer 1] Produced task 805 Type: IO Priority: 16
+[Consumer 1] Consumed task 804 Type: IO Priority: 65 WaitTime(ms): 11
+[Producer 2] Produced task 806 Type: IO Priority: 43
+[Producer 1] Produced task 807 Type: IO Priority: 87
+[Producer 2] Produced task 808 Type: IO Priority: 2
+[Consumer 1] Consumed task 807 Type: IO Priority: 87 WaitTime(ms): 17
+[Producer 1] Produced task 809 Type: CPU Priority: 60
+[Consumer 2] Consumed task 809 Type: CPU Priority: 60 WaitTime(ms): 4
+[Producer 2] Produced task 810 Type: CPU Priority: 79
+[Producer 1] Produced task 811 Type: IO Priority: 41
+[Consumer 1] Consumed task 810 Type: CPU Priority: 79 WaitTime(ms): 11
+[Producer 2] Produced task 812 Type: CPU Priority: 24
+[Producer 1] Produced task 813 Type: CPU Priority: 35
+[Consumer 2] Consumed task 475 Type: IO Priority: 51 WaitTime(ms): 2075
+[Producer 2] Produced task 814 Type: CPU Priority: 62
+[Producer 1] Produced task 815 Type: CPU Priority: 70
+[Producer 2] Produced task 816 Type: CPU Priority: 63
+[Consumer 1] Consumed task 815 Type: CPU Priority: 70 WaitTime(ms): 15
+[Producer 1] Produced task 817 Type: CPU Priority: 11
+[Consumer 2] Consumed task 816 Type: CPU Priority: 63 WaitTime(ms): 7
+[Producer 2] Produced task 818 Type: IO Priority: 15
+[Producer 1] Produced task 819 Type: CPU Priority: 34
+[Producer 2] Produced task 820 Type: CPU Priority: 90
+[Producer 1] Produced task 821 Type: IO Priority: 93
+[Consumer 1] Consumed task 821 Type: IO Priority: 93 WaitTime(ms): 4
+[Consumer 2] Consumed task 820 Type: CPU Priority: 90 WaitTime(ms): 16
+[Producer 2] Produced task 822 Type: CPU Priority: 39
+[Producer 1] Produced task 823 Type: IO Priority: 94
+[Consumer 1] Consumed task 823 Type: IO Priority: 94 WaitTime(ms): 14
+[Producer 2] Produced task 824 Type: CPU Priority: 13
+[Producer 1] Produced task 825 Type: CPU Priority: 82
+[Producer 2] Produced task 826 Type: IO Priority: 75
+[Producer 1] Produced task 827 Type: IO Priority: 38
+[Consumer 2] Consumed task 825 Type: CPU Priority: 82 WaitTime(ms): 21
+[Consumer 1] Consumed task 826 Type: IO Priority: 75 WaitTime(ms): 9
+[Producer 2] Produced task 828 Type: IO Priority: 51
+[Producer 1] Produced task 829 Type: IO Priority: 11
+[Consumer 1] Consumed task 814 Type: CPU Priority: 62 WaitTime(ms): 164
+[Producer 2] Produced task 830 Type: IO Priority: 68
+[Producer 1] Produced task 831 Type: IO Priority: 13
+[Consumer 2] Consumed task 830 Type: IO Priority: 68 WaitTime(ms): 14
+[Producer 2] Produced task 832 Type: IO Priority: 99
+[Producer 1] Produced task 833 Type: CPU Priority: 35
+[Producer 2] Produced task 834 Type: IO Priority: 64
+[Consumer 2] Consumed task 832 Type: IO Priority: 99 WaitTime(ms): 24
+[Producer 1] Produced task 835 Type: IO Priority: 46
+[Consumer 1] Consumed task 834 Type: IO Priority: 64 WaitTime(ms): 8
+[Producer 2] Produced task 836 Type: IO Priority: 72
+[Producer 1] Produced task 837 Type: IO Priority: 40
+[Consumer 2] Consumed task 836 Type: IO Priority: 72 WaitTime(ms): 14
+[Consumer 1] Consumed task 524 Type: CPU Priority: 51 WaitTime(ms): 1799
+[Producer 2] Produced task 838 Type: IO Priority: 23
+[Producer 1] Produced task 839 Type: CPU Priority: 57
+[Producer 2] Produced task 840 Type: IO Priority: 93
+[Consumer 2] Consumed task 840 Type: IO Priority: 93 WaitTime(ms): 3
+[Producer 1] Produced task 841 Type: CPU Priority: 81
+[Producer 2] Produced task 842 Type: IO Priority: 14
+[Producer 1] Produced task 843 Type: CPU Priority: 71
+[Consumer 1] Consumed task 841 Type: CPU Priority: 81 WaitTime(ms): 21
+[Consumer 2] Consumed task 843 Type: CPU Priority: 71 WaitTime(ms): 7
+[Producer 2] Produced task 844 Type: CPU Priority: 96
+[Producer 1] Produced task 845 Type: CPU Priority: 83
+[Producer 2] Produced task 846 Type: IO Priority: 67
+[Producer 1] Produced task 847 Type: IO Priority: 0
+[Consumer 1] Consumed task 844 Type: CPU Priority: 96 WaitTime(ms): 36
+[Producer 2] Produced task 848 Type: IO Priority: 74
+[Consumer 2] Consumed task 845 Type: CPU Priority: 83 WaitTime(ms): 38
+[Producer 1] Produced task 849 Type: CPU Priority: 33
+[Producer 2] Produced task 850 Type: CPU Priority: 57
+[Producer 1] Produced task 851 Type: IO Priority: 49
+[Producer 2] Produced task 852 Type: CPU Priority: 23
+[Consumer 1] Consumed task 848 Type: IO Priority: 74 WaitTime(ms): 44
+[Producer 1] Produced task 853 Type: IO Priority: 92
+[Consumer 2] Consumed task 853 Type: IO Priority: 92 WaitTime(ms): 3
+[Producer 2] Produced task 854 Type: IO Priority: 29
+[Producer 1] Produced task 855 Type: CPU Priority: 35
+[Consumer 1] Consumed task 846 Type: IO Priority: 67 WaitTime(ms): 97
+[Producer 2] Produced task 856 Type: CPU Priority: 40
+[Consumer 2] Consumed task 839 Type: CPU Priority: 57 WaitTime(ms): 183
+[Producer 1] Produced task 857 Type: IO Priority: 43
+[Producer 2] Produced task 858 Type: CPU Priority: 39
+[Consumer 1] Consumed task 850 Type: CPU Priority: 57 WaitTime(ms): 85
+[Producer 1] Produced task 859 Type: CPU Priority: 25
+[Producer 2] Produced task 860 Type: CPU Priority: 53
+[Producer 1] Produced task 861 Type: CPU Priority: 52
+[Consumer 2] Consumed task 860 Type: CPU Priority: 53 WaitTime(ms): 9
+[Producer 2] Produced task 862 Type: CPU Priority: 57
+[Producer 1] Produced task 863 Type: IO Priority: 87
+[Consumer 1] Consumed task 863 Type: IO Priority: 87 WaitTime(ms): 3
+[Producer 2] Produced task 864 Type: IO Priority: 40
+[Producer 1] Produced task 865 Type: IO Priority: 26
+[Consumer 2] Consumed task 862 Type: CPU Priority: 57 WaitTime(ms): 39
+[Producer 2] Produced task 866 Type: IO Priority: 5
+[Consumer 1] Consumed task 861 Type: CPU Priority: 52 WaitTime(ms): 58
+[Producer 1] Produced task 867 Type: CPU Priority: 78
+[Producer 2] Produced task 868 Type: CPU Priority: 69
+[Producer 1] Produced task 869 Type: CPU Priority: 27
+[Producer 2] Produced task 870 Type: IO Priority: 20
+[Consumer 2] Consumed task 867 Type: CPU Priority: 78 WaitTime(ms): 40
+[Producer 1] Produced task 871 Type: CPU Priority: 21
+[Consumer 1] Consumed task 868 Type: CPU Priority: 69 WaitTime(ms): 31
+[Producer 2] Produced task 872 Type: CPU Priority: 83
+[Producer 1] Produced task 873 Type: IO Priority: 67
+[Producer 2] Produced task 874 Type: CPU Priority: 82
+[Producer 1] Produced task 875 Type: IO Priority: 11
+[Consumer 2] Consumed task 872 Type: CPU Priority: 83 WaitTime(ms): 35
+[Consumer 1] Consumed task 874 Type: CPU Priority: 82 WaitTime(ms): 19
+[Producer 2] Produced task 876 Type: IO Priority: 53
+[Producer 1] Produced task 877 Type: CPU Priority: 8
+[Producer 2] Produced task 878 Type: IO Priority: 68
+[Producer 1] Produced task 879 Type: CPU Priority: 98
+[Producer 2] Produced task 880 Type: CPU Priority: 68
+[Consumer 2] Consumed task 879 Type: CPU Priority: 98 WaitTime(ms): 15
+[Consumer 1] Consumed task 878 Type: IO Priority: 68 WaitTime(ms): 28
+[Producer 1] Produced task 881 Type: IO Priority: 9
+[Producer 2] Produced task 882 Type: IO Priority: 3
+[Producer 1] Produced task 883 Type: IO Priority: 54
+[Consumer 1] Consumed task 880 Type: CPU Priority: 68 WaitTime(ms): 38
+[Producer 2] Produced task 884 Type: IO Priority: 57
+[Producer 1] Produced task 885 Type: IO Priority: 23
+[Consumer 2] Consumed task 873 Type: IO Priority: 67 WaitTime(ms): 129
+[Producer 2] Produced task 886 Type: CPU Priority: 96
+[Producer 1] Produced task 887 Type: CPU Priority: 42
+[Producer 2] Produced task 888 Type: IO Priority: 12
+[Consumer 2] Consumed task 886 Type: CPU Priority: 96 WaitTime(ms): 21
+[Consumer 1] Consumed task 884 Type: IO Priority: 57 WaitTime(ms): 47
+[Producer 1] Produced task 889 Type: IO Priority: 55
+[Producer 2] Produced task 890 Type: CPU Priority: 54
+[Producer 1] Produced task 891 Type: IO Priority: 34
+[Consumer 1] Consumed task 889 Type: IO Priority: 55 WaitTime(ms): 28
+[Producer 2] Produced task 892 Type: CPU Priority: 81
+[Producer 1] Produced task 893 Type: IO Priority: 73
+[Consumer 2] Consumed task 892 Type: CPU Priority: 81 WaitTime(ms): 9
+[Producer 2] Produced task 894 Type: IO Priority: 38
+[Consumer 1] Consumed task 893 Type: IO Priority: 73 WaitTime(ms): 17
+[Producer 1] Produced task 895 Type: CPU Priority: 13
+[Producer 2] Produced task 896 Type: CPU Priority: 99
+[Producer 1] Produced task 897 Type: IO Priority: 84
+[Consumer 1] Consumed task 896 Type: CPU Priority: 99 WaitTime(ms): 16
+[Consumer 2] Consumed task 897 Type: IO Priority: 84 WaitTime(ms): 9
+[Producer 2] Produced task 898 Type: CPU Priority: 61
+[Producer 1] Produced task 899 Type: IO Priority: 80
+[Producer 2] Produced task 900 Type: IO Priority: 23
+[Consumer 2] Consumed task 899 Type: IO Priority: 80 WaitTime(ms): 19
+[Producer 1] Produced task 901 Type: CPU Priority: 0
+[Producer 2] Produced task 902 Type: CPU Priority: 0
+[Consumer 1] Consumed task 898 Type: CPU Priority: 61 WaitTime(ms): 46
+[Producer 1] Produced task 903 Type: CPU Priority: 52
+[Consumer 2] Consumed task 883 Type: IO Priority: 54 WaitTime(ms): 218
+[Producer 2] Produced task 904 Type: IO Priority: 4
+[Producer 1] Produced task 905 Type: CPU Priority: 59
+[Producer 2] Produced task 906 Type: CPU Priority: 25
+[Consumer 2] Consumed task 905 Type: CPU Priority: 59 WaitTime(ms): 19
+[Producer 1] Produced task 907 Type: CPU Priority: 17
+[Consumer 1] Consumed task 890 Type: CPU Priority: 54 WaitTime(ms): 180
+[Producer 2] Produced task 908 Type: CPU Priority: 36
+[Producer 1] Produced task 909 Type: CPU Priority: 60
+[Producer 2] Produced task 910 Type: IO Priority: 14
+[Producer 1] Produced task 911 Type: IO Priority: 37
+[Consumer 2] Consumed task 909 Type: CPU Priority: 60 WaitTime(ms): 28
+[Producer 2] Produced task 912 Type: IO Priority: 48
+[Consumer 1] Consumed task 876 Type: IO Priority: 53 WaitTime(ms): 377
+[Producer 1] Produced task 913 Type: IO Priority: 20
+[Producer 2] Produced task 914 Type: CPU Priority: 63
+[Producer 1] Produced task 915 Type: CPU Priority: 32
+[Consumer 1] Consumed task 914 Type: CPU Priority: 63 WaitTime(ms): 13
+[Producer 2] Produced task 916 Type: IO Priority: 4
+[Consumer 2] Consumed task 903 Type: CPU Priority: 52 WaitTime(ms): 141
+[Producer 1] Produced task 917 Type: CPU Priority: 58
+[Producer 2] Produced task 918 Type: CPU Priority: 27
+[Producer 1] Produced task 919 Type: IO Priority: 68
+[Producer 2] Produced task 920 Type: CPU Priority: 69
+[Consumer 1] Consumed task 920 Type: CPU Priority: 69 WaitTime(ms): 1
+[Producer 1] Produced task 921 Type: CPU Priority: 41
+[Consumer 2] Consumed task 919 Type: IO Priority: 68 WaitTime(ms): 26
+[Producer 2] Produced task 922 Type: CPU Priority: 74
+[Producer 1] Produced task 923 Type: CPU Priority: 5
+[Producer 2] Produced task 924 Type: IO Priority: 1
+[Consumer 2] Consumed task 922 Type: CPU Priority: 74 WaitTime(ms): 26
+[Producer 1] Produced task 925 Type: IO Priority: 89
+[Consumer 1] Consumed task 925 Type: IO Priority: 89 WaitTime(ms): 1
+[Producer 2] Produced task 926 Type: CPU Priority: 90
+[Producer 1] Produced task 927 Type: CPU Priority: 32
+[Producer 2] Produced task 928 Type: IO Priority: 99
+[Consumer 1] Consumed task 928 Type: IO Priority: 99 WaitTime(ms): 1
+[Producer 1] Produced task 929 Type: CPU Priority: 0
+[Consumer 2] Consumed task 926 Type: CPU Priority: 90 WaitTime(ms): 35
+[Producer 2] Produced task 930 Type: CPU Priority: 57
+[Producer 1] Produced task 931 Type: IO Priority: 48
+[Consumer 1] Consumed task 917 Type: CPU Priority: 58 WaitTime(ms): 150
+[Producer 2] Produced task 932 Type: IO Priority: 17
+[Producer 1] Produced task 933 Type: IO Priority: 69
+[Producer 2] Produced task 934 Type: CPU Priority: 69
+[Consumer 2] Consumed task 933 Type: IO Priority: 69 WaitTime(ms): 11
+[Producer 1] Produced task 935 Type: IO Priority: 28
+[Consumer 1] Consumed task 934 Type: CPU Priority: 69 WaitTime(ms): 20
+[Producer 2] Produced task 936 Type: CPU Priority: 18
+[Producer 1] Produced task 937 Type: CPU Priority: 85
+[Consumer 2] Consumed task 937 Type: CPU Priority: 85 WaitTime(ms): 0
+[Producer 2] Produced task 938 Type: CPU Priority: 80
+[Producer 1] Produced task 939 Type: IO Priority: 54
+[Producer 2] Produced task 940 Type: IO Priority: 7
+[Consumer 1] Consumed task 938 Type: CPU Priority: 80 WaitTime(ms): 29
+[Producer 1] Produced task 941 Type: CPU Priority: 0
+[Producer 2] Produced task 942 Type: IO Priority: 21
+[Consumer 2] Consumed task 930 Type: CPU Priority: 57 WaitTime(ms): 125
+[Producer 1] Produced task 943 Type: CPU Priority: 88
+[Producer 2] Produced task 944 Type: CPU Priority: 90
+[Producer 1] Produced task 945 Type: IO Priority: 34
+[Consumer 1] Consumed task 944 Type: CPU Priority: 90 WaitTime(ms): 17
+[Producer 2] Produced task 946 Type: IO Priority: 25
+[Consumer 2] Consumed task 943 Type: CPU Priority: 88 WaitTime(ms): 41
+[Producer 1] Produced task 947 Type: CPU Priority: 61
+[Producer 2] Produced task 948 Type: CPU Priority: 42
+[Producer 1] Produced task 949 Type: IO Priority: 91
+[Producer 2] Produced task 950 Type: CPU Priority: 20
+[Consumer 1] Consumed task 949 Type: IO Priority: 91 WaitTime(ms): 16
+[Producer 1] Produced task 951 Type: CPU Priority: 54
+[Consumer 2] Consumed task 947 Type: CPU Priority: 61 WaitTime(ms): 50
+[Producer 2] Produced task 952 Type: CPU Priority: 42
+[Producer 1] Produced task 953 Type: CPU Priority: 30
+[Consumer 1] Consumed task 939 Type: IO Priority: 54 WaitTime(ms): 152
+[Producer 2] Produced task 954 Type: IO Priority: 34
+[Producer 1] Produced task 955 Type: CPU Priority: 8
+[Producer 2] Produced task 956 Type: CPU Priority: 80
+[Consumer 1] Consumed task 956 Type: CPU Priority: 80 WaitTime(ms): 6
+[Consumer 2] Consumed task 951 Type: CPU Priority: 54 WaitTime(ms): 58
+[Producer 1] Produced task 957 Type: CPU Priority: 44
+[Producer 2] Produced task 958 Type: CPU Priority: 45
+[Producer 1] Produced task 959 Type: IO Priority: 22
+[Producer 2] Produced task 960 Type: IO Priority: 25
+[Producer 1] Produced task 961 Type: CPU Priority: 35
+[Consumer 1] Consumed task 828 Type: IO Priority: 51 WaitTime(ms): 1399
+[Consumer 2] Consumed task 724 Type: IO Priority: 51 WaitTime(ms): 1003
+[Producer 2] Produced task 962 Type: CPU Priority: 92
+[Producer 1] Produced task 963 Type: CPU Priority: 96
+[Producer 2] Produced task 964 Type: CPU Priority: 30
+[Consumer 1] Consumed task 963 Type: CPU Priority: 96 WaitTime(ms): 14
+[Consumer 2] Consumed task 962 Type: CPU Priority: 92 WaitTime(ms): 27
+[Producer 1] Produced task 965 Type: IO Priority: 49
+[Producer 2] Produced task 966 Type: CPU Priority: 12
+[Producer 1] Produced task 967 Type: CPU Priority: 89
+[Producer 2] Produced task 968 Type: CPU Priority: 48
+[Producer 1] Produced task 969 Type: CPU Priority: 28
+[Consumer 1] Consumed task 967 Type: CPU Priority: 89 WaitTime(ms): 23
+[Consumer 2] Consumed task 725 Type: CPU Priority: 51 WaitTime(ms): 1081
+[Producer 2] Produced task 970 Type: CPU Priority: 57
+[Producer 1] Produced task 971 Type: IO Priority: 76
+[Producer 2] Produced task 972 Type: CPU Priority: 97
+[Producer 1] Produced task 973 Type: CPU Priority: 39
+[Producer 2] Produced task 974 Type: CPU Priority: 5
+[Consumer 1] Consumed task 972 Type: CPU Priority: 97 WaitTime(ms): 23
+[Consumer 2] Consumed task 971 Type: IO Priority: 76 WaitTime(ms): 33
+[Producer 1] Produced task 975 Type: CPU Priority: 82
+[Producer 2] Produced task 976 Type: IO Priority: 23
+[Producer 1] Produced task 977 Type: IO Priority: 36
+[Consumer 2] Consumed task 975 Type: CPU Priority: 82 WaitTime(ms): 22
+[Producer 2] Produced task 978 Type: CPU Priority: 17
+[Consumer 1] Consumed task 970 Type: CPU Priority: 57 WaitTime(ms): 95
+[Producer 1] Produced task 979 Type: IO Priority: 53
+[Producer 2] Produced task 980 Type: CPU Priority: 24
+[Producer 1] Produced task 981 Type: CPU Priority: 50
+[Producer 2] Produced task 982 Type: CPU Priority: 10
+[Consumer 2] Consumed task 979 Type: IO Priority: 53 WaitTime(ms): 31
+[Producer 1] Produced task 983 Type: CPU Priority: 42
+[Producer 2] Produced task 984 Type: IO Priority: 64
+[Consumer 1] Consumed task 984 Type: IO Priority: 64 WaitTime(ms): 0
+[Consumer 2] Consumed task 564 Type: CPU Priority: 51 WaitTime(ms): 2919
+[Producer 1] Produced task 985 Type: IO Priority: 41
+[Producer 2] Produced task 986 Type: IO Priority: 11
+[Consumer 1] Consumed task 431 Type: IO Priority: 50 WaitTime(ms): 4342
+[Producer 1] Produced task 987 Type: CPU Priority: 10
+[Producer 2] Produced task 988 Type: CPU Priority: 90
+[Producer 1] Produced task 989 Type: IO Priority: 55
+[Producer 2] Produced task 990 Type: IO Priority: 16
+[Consumer 1] Consumed task 988 Type: CPU Priority: 90 WaitTime(ms): 21
+[Consumer 2] Consumed task 989 Type: IO Priority: 55 WaitTime(ms): 8
+[Producer 1] Produced task 991 Type: IO Priority: 81
+[Producer 2] Produced task 992 Type: IO Priority: 58
+[Consumer 2] Consumed task 991 Type: IO Priority: 81 WaitTime(ms): 18
+[Producer 1] Produced task 993 Type: IO Priority: 6
+[Producer 2] Produced task 994 Type: IO Priority: 1
+[Consumer 1] Consumed task 992 Type: IO Priority: 58 WaitTime(ms): 30
+[Producer 1] Produced task 995 Type: CPU Priority: 74
+[Producer 2] Produced task 996 Type: IO Priority: 65
+[Consumer 2] Consumed task 995 Type: CPU Priority: 74 WaitTime(ms): 11
+[Producer 1] Produced task 997 Type: CPU Priority: 66
+[Consumer 1] Consumed task 997 Type: CPU Priority: 66 WaitTime(ms): 6
+[Producer 2] Produced task 998 Type: IO Priority: 69
+[Producer 1] Produced task 999 Type: IO Priority: 34
+[Consumer 2] Consumed task 998 Type: IO Priority: 69 WaitTime(ms): 31
+[Consumer 1] Consumed task 996 Type: IO Priority: 65 WaitTime(ms): 74
+[Consumer 2] Consumed task 981 Type: CPU Priority: 50 WaitTime(ms): 240
+[Consumer 1] Consumed task 429 Type: IO Priority: 50 WaitTime(ms): 4560
+[Consumer 1] Consumed task 677 Type: CPU Priority: 50 WaitTime(ms): 1995
+[Consumer 2] Consumed task 708 Type: CPU Priority: 50 WaitTime(ms): 1667
+[Consumer 1] Consumed task 387 Type: CPU Priority: 50 WaitTime(ms): 5076
+[Consumer 2] Consumed task 965 Type: IO Priority: 49 WaitTime(ms): 508
+[Consumer 2] Consumed task 851 Type: IO Priority: 49 WaitTime(ms): 1737
+[Consumer 1] Consumed task 760 Type: CPU Priority: 49 WaitTime(ms): 1209
+[Consumer 2] Consumed task 771 Type: IO Priority: 49 WaitTime(ms): 1114
+[Consumer 2] Consumed task 371 Type: CPU Priority: 49 WaitTime(ms): 5341
+[Consumer 1] Consumed task 618 Type: IO Priority: 49 WaitTime(ms): 2753
+[Consumer 1] Consumed task 535 Type: CPU Priority: 49 WaitTime(ms): 3661
+[Consumer 2] Consumed task 548 Type: IO Priority: 49 WaitTime(ms): 3531
+[Consumer 2] Consumed task 931 Type: IO Priority: 48 WaitTime(ms): 1038
+[Consumer 1] Consumed task 968 Type: CPU Priority: 48 WaitTime(ms): 659
+[Consumer 2] Consumed task 912 Type: IO Priority: 48 WaitTime(ms): 1269
+[Consumer 1] Consumed task 653 Type: CPU Priority: 48 WaitTime(ms): 2529
+[Consumer 2] Consumed task 545 Type: IO Priority: 48 WaitTime(ms): 3665
+[Consumer 2] Consumed task 425 Type: IO Priority: 47 WaitTime(ms): 4953
+[Consumer 1] Consumed task 783 Type: IO Priority: 47 WaitTime(ms): 2708
+[Consumer 2] Consumed task 311 Type: IO Priority: 47 WaitTime(ms): 6185
+[Consumer 1] Consumed task 390 Type: CPU Priority: 47 WaitTime(ms): 5353
+[Consumer 2] Consumed task 752 Type: CPU Priority: 47 WaitTime(ms): 1578
+[Consumer 1] Consumed task 730 Type: IO Priority: 47 WaitTime(ms): 1848
+[Consumer 2] Consumed task 835 Type: IO Priority: 46 WaitTime(ms): 2257
+[Consumer 1] Consumed task 353 Type: IO Priority: 46 WaitTime(ms): 5833
+[Consumer 2] Consumed task 698 Type: IO Priority: 46 WaitTime(ms): 2231
+[Consumer 1] Consumed task 690 Type: IO Priority: 46 WaitTime(ms): 2330
+[Consumer 2] Consumed task 266 Type: CPU Priority: 46 WaitTime(ms): 6797
+[Consumer 1] Consumed task 958 Type: CPU Priority: 45 WaitTime(ms): 1038
+[Consumer 2] Consumed task 697 Type: CPU Priority: 45 WaitTime(ms): 2334
+[Consumer 1] Consumed task 555 Type: IO Priority: 45 WaitTime(ms): 3828
+[Consumer 1] Consumed task 287 Type: IO Priority: 45 WaitTime(ms): 6678
+[Consumer 2] Consumed task 957 Type: CPU Priority: 44 WaitTime(ms): 1135
+[Consumer 1] Consumed task 790 Type: CPU Priority: 44 WaitTime(ms): 2913
+[Consumer 2] Consumed task 196 Type: CPU Priority: 44 WaitTime(ms): 7713
+[Consumer 1] Consumed task 334 Type: IO Priority: 44 WaitTime(ms): 6256
+[Consumer 2] Consumed task 129 Type: CPU Priority: 44 WaitTime(ms): 8483
+[Consumer 1] Consumed task 534 Type: CPU Priority: 44 WaitTime(ms): 4185
+[Consumer 2] Consumed task 239 Type: IO Priority: 43 WaitTime(ms): 7357
+[Consumer 1] Consumed task 857 Type: IO Priority: 43 WaitTime(ms): 2345
+[Consumer 2] Consumed task 98 Type: IO Priority: 43 WaitTime(ms): 8887
+[Consumer 1] Consumed task 245 Type: CPU Priority: 43 WaitTime(ms): 7325
+[Consumer 2] Consumed task 806 Type: IO Priority: 43 WaitTime(ms): 2933
+[Consumer 1] Consumed task 736 Type: IO Priority: 43 WaitTime(ms): 2205
+[Consumer 2] Consumed task 739 Type: CPU Priority: 43 WaitTime(ms): 2187
+[Consumer 1] Consumed task 346 Type: CPU Priority: 43 WaitTime(ms): 6319
+[Consumer 2] Consumed task 673 Type: CPU Priority: 43 WaitTime(ms): 2931
+[Consumer 1] Consumed task 645 Type: IO Priority: 43 WaitTime(ms): 3246
+[Consumer 2] Consumed task 983 Type: CPU Priority: 42 WaitTime(ms): 1213
+[Consumer 1] Consumed task 952 Type: CPU Priority: 42 WaitTime(ms): 1539
+[Consumer 2] Consumed task 948 Type: CPU Priority: 42 WaitTime(ms): 1630
+[Consumer 1] Consumed task 887 Type: CPU Priority: 42 WaitTime(ms): 2271
+[Consumer 2] Consumed task 199 Type: CPU Priority: 42 WaitTime(ms): 8088
+[Consumer 1] Consumed task 116 Type: CPU Priority: 42 WaitTime(ms): 8963
+[Consumer 2] Consumed task 747 Type: CPU Priority: 42 WaitTime(ms): 2356
+[Consumer 1] Consumed task 159 Type: IO Priority: 42 WaitTime(ms): 8564
+[Consumer 1] Consumed task 683 Type: IO Priority: 42 WaitTime(ms): 3065
+[Consumer 2] Consumed task 616 Type: CPU Priority: 42 WaitTime(ms): 3771
+[Consumer 1] Consumed task 560 Type: CPU Priority: 42 WaitTime(ms): 4370
+[Consumer 2] Consumed task 248 Type: IO Priority: 41 WaitTime(ms): 7700
+[Consumer 1] Consumed task 506 Type: CPU Priority: 41 WaitTime(ms): 4995
+[Consumer 2] Consumed task 985 Type: IO Priority: 41 WaitTime(ms): 1478
+[Consumer 2] Consumed task 486 Type: IO Priority: 41 WaitTime(ms): 5255
+[Consumer 1] Consumed task 921 Type: CPU Priority: 41 WaitTime(ms): 2183
+[Consumer 2] Consumed task 811 Type: IO Priority: 41 WaitTime(ms): 3368
+[Consumer 1] Consumed task 398 Type: CPU Priority: 41 WaitTime(ms): 6222
+[Consumer 2] Consumed task 591 Type: CPU Priority: 41 WaitTime(ms): 4214
+[Consumer 1] Consumed task 582 Type: IO Priority: 41 WaitTime(ms): 4343
+[Consumer 2] Consumed task 82 Type: CPU Priority: 41 WaitTime(ms): 9654
+[Consumer 1] Consumed task 123 Type: CPU Priority: 40 WaitTime(ms): 9247
+[Consumer 2] Consumed task 8 Type: CPU Priority: 40 WaitTime(ms): 10497
+[Consumer 1] Consumed task 60 Type: IO Priority: 40 WaitTime(ms): 9966
+[Consumer 2] Consumed task 864 Type: IO Priority: 40 WaitTime(ms): 2992
+[Consumer 1] Consumed task 856 Type: CPU Priority: 40 WaitTime(ms): 3079
+[Consumer 2] Consumed task 837 Type: IO Priority: 40 WaitTime(ms): 3313
+[Consumer 1] Consumed task 395 Type: CPU Priority: 40 WaitTime(ms): 6477
+[Consumer 2] Consumed task 166 Type: IO Priority: 40 WaitTime(ms): 8921
+[Consumer 2] Consumed task 178 Type: CPU Priority: 40 WaitTime(ms): 8827
+[Consumer 1] Consumed task 672 Type: IO Priority: 40 WaitTime(ms): 3623
+[Consumer 1] Consumed task 75 Type: IO Priority: 40 WaitTime(ms): 9979
+[Consumer 2] Consumed task 501 Type: CPU Priority: 39 WaitTime(ms): 5468
+[Consumer 1] Consumed task 973 Type: CPU Priority: 39 WaitTime(ms): 2019
+[Consumer 2] Consumed task 234 Type: CPU Priority: 39 WaitTime(ms): 8331
+[Consumer 1] Consumed task 477 Type: CPU Priority: 39 WaitTime(ms): 5795
+[Consumer 2] Consumed task 228 Type: CPU Priority: 39 WaitTime(ms): 8446
+[Consumer 1] Consumed task 858 Type: CPU Priority: 39 WaitTime(ms): 3329
+[Consumer 2] Consumed task 822 Type: CPU Priority: 39 WaitTime(ms): 3736
+[Consumer 1] Consumed task 726 Type: CPU Priority: 39 WaitTime(ms): 3275
+[Consumer 2] Consumed task 720 Type: IO Priority: 39 WaitTime(ms): 3370
+[Consumer 1] Consumed task 47 Type: CPU Priority: 39 WaitTime(ms): 10515
+[Consumer 2] Consumed task 686 Type: CPU Priority: 39 WaitTime(ms): 3756
+[Consumer 1] Consumed task 165 Type: IO Priority: 39 WaitTime(ms): 9303
+[Consumer 2] Consumed task 615 Type: CPU Priority: 39 WaitTime(ms): 4556
+[Consumer 1] Consumed task 526 Type: IO Priority: 38 WaitTime(ms): 5504
+[Consumer 2] Consumed task 241 Type: IO Priority: 38 WaitTime(ms): 8548
+[Consumer 1] Consumed task 894 Type: IO Priority: 38 WaitTime(ms): 3164
+[Consumer 2] Consumed task 423 Type: IO Priority: 38 WaitTime(ms): 6649
+[Consumer 1] Consumed task 827 Type: IO Priority: 38 WaitTime(ms): 3905
+[Consumer 2] Consumed task 691 Type: IO Priority: 38 WaitTime(ms): 3878
+[Consumer 1] Consumed task 320 Type: CPU Priority: 38 WaitTime(ms): 7758
+[Consumer 2] Consumed task 601 Type: CPU Priority: 38 WaitTime(ms): 4844
+[Consumer 1] Consumed task 596 Type: IO Priority: 38 WaitTime(ms): 4907
+[Consumer 2] Consumed task 280 Type: CPU Priority: 38 WaitTime(ms): 8263
+[Consumer 1] Consumed task 515 Type: IO Priority: 37 WaitTime(ms): 5804
+[Consumer 1] Consumed task 469 Type: IO Priority: 37 WaitTime(ms): 6318
+[Consumer 2] Consumed task 464 Type: CPU Priority: 37 WaitTime(ms): 6380
+[Consumer 1] Consumed task 911 Type: IO Priority: 37 WaitTime(ms): 3192
+[Consumer 1] Consumed task 714 Type: CPU Priority: 37 WaitTime(ms): 3805
+[Consumer 2] Consumed task 354 Type: IO Priority: 37 WaitTime(ms): 7578
+[Consumer 2] Consumed task 684 Type: IO Priority: 37 WaitTime(ms): 4157
+[Consumer 1] Consumed task 91 Type: CPU Priority: 37 WaitTime(ms): 10444
+[Consumer 2] Consumed task 637 Type: CPU Priority: 37 WaitTime(ms): 4685
+[Consumer 1] Consumed task 313 Type: CPU Priority: 37 WaitTime(ms): 8117
+[Consumer 2] Consumed task 977 Type: IO Priority: 36 WaitTime(ms): 2655
+[Consumer 2] Consumed task 32 Type: IO Priority: 36 WaitTime(ms): 11168
+[Consumer 1] Consumed task 462 Type: CPU Priority: 36 WaitTime(ms): 6597
+[Consumer 2] Consumed task 908 Type: CPU Priority: 36 WaitTime(ms): 3439
+[Consumer 1] Consumed task 220 Type: CPU Priority: 36 WaitTime(ms): 9214
+[Consumer 2] Consumed task 203 Type: CPU Priority: 36 WaitTime(ms): 9435
+[Consumer 1] Consumed task 376 Type: IO Priority: 36 WaitTime(ms): 7593
+[Consumer 2] Consumed task 331 Type: CPU Priority: 36 WaitTime(ms): 8112
+[Consumer 1] Consumed task 654 Type: CPU Priority: 36 WaitTime(ms): 4715
+[Consumer 2] Consumed task 325 Type: CPU Priority: 36 WaitTime(ms): 8226
+[Consumer 1] Consumed task 158 Type: CPU Priority: 36 WaitTime(ms): 10005
+[Consumer 2] Consumed task 152 Type: IO Priority: 36 WaitTime(ms): 10118
+[Consumer 1] Consumed task 961 Type: CPU Priority: 35 WaitTime(ms): 3089
+[Consumer 2] Consumed task 233 Type: CPU Priority: 35 WaitTime(ms): 9296
+[Consumer 1] Consumed task 855 Type: CPU Priority: 35 WaitTime(ms): 4254
+[Consumer 2] Consumed task 833 Type: CPU Priority: 35 WaitTime(ms): 4519
+[Consumer 1] Consumed task 813 Type: CPU Priority: 35 WaitTime(ms): 4748
+[Consumer 2] Consumed task 758 Type: IO Priority: 35 WaitTime(ms): 3855
+[Consumer 1] Consumed task 96 Type: IO Priority: 35 WaitTime(ms): 10873
+[Consumer 2] Consumed task 721 Type: CPU Priority: 35 WaitTime(ms): 4290
+[Consumer 1] Consumed task 84 Type: CPU Priority: 34 WaitTime(ms): 11033
+[Consumer 2] Consumed task 999 Type: IO Priority: 34 WaitTime(ms): 2904
+[Consumer 1] Consumed task 954 Type: IO Priority: 34 WaitTime(ms): 3397
+[Consumer 2] Consumed task 945 Type: IO Priority: 34 WaitTime(ms): 3501
+[Consumer 1] Consumed task 891 Type: IO Priority: 34 WaitTime(ms): 4089
+[Consumer 2] Consumed task 442 Type: IO Priority: 34 WaitTime(ms): 7315
+[Consumer 1] Consumed task 412 Type: CPU Priority: 34 WaitTime(ms): 7647
+[Consumer 2] Consumed task 819 Type: CPU Priority: 34 WaitTime(ms): 4890
+[Consumer 1] Consumed task 800 Type: IO Priority: 34 WaitTime(ms): 5125
+[Consumer 2] Consumed task 794 Type: CPU Priority: 34 WaitTime(ms): 5197
+[Consumer 1] Consumed task 51 Type: CPU Priority: 34 WaitTime(ms): 11588
+[Consumer 2] Consumed task 383 Type: CPU Priority: 34 WaitTime(ms): 8069
+[Consumer 1] Consumed task 762 Type: IO Priority: 34 WaitTime(ms): 4108
+[Consumer 2] Consumed task 632 Type: IO Priority: 34 WaitTime(ms): 5508
+[Consumer 1] Consumed task 38 Type: CPU Priority: 34 WaitTime(ms): 11800
+[Consumer 2] Consumed task 547 Type: CPU Priority: 33 WaitTime(ms): 6436
+[Consumer 1] Consumed task 206 Type: CPU Priority: 33 WaitTime(ms): 10059
+[Consumer 2] Consumed task 849 Type: CPU Priority: 33 WaitTime(ms): 4809
+[Consumer 1] Consumed task 364 Type: IO Priority: 33 WaitTime(ms): 8414
+[Consumer 2] Consumed task 661 Type: CPU Priority: 33 WaitTime(ms): 5346
+[Consumer 1] Consumed task 631 Type: IO Priority: 33 WaitTime(ms): 5665
+[Consumer 1] Consumed task 621 Type: IO Priority: 33 WaitTime(ms): 5799
+[Consumer 2] Consumed task 611 Type: IO Priority: 33 WaitTime(ms): 5922
+[Consumer 1] Consumed task 580 Type: IO Priority: 33 WaitTime(ms): 6244
+[Consumer 2] Consumed task 566 Type: IO Priority: 33 WaitTime(ms): 6414
+[Consumer 1] Consumed task 141 Type: CPU Priority: 33 WaitTime(ms): 10935
+[Consumer 2] Consumed task 528 Type: CPU Priority: 32 WaitTime(ms): 6848
+[Consumer 1] Consumed task 927 Type: CPU Priority: 32 WaitTime(ms): 4185
+[Consumer 2] Consumed task 915 Type: CPU Priority: 32 WaitTime(ms): 4331
+[Consumer 1] Consumed task 450 Type: CPU Priority: 32 WaitTime(ms): 7747
+[Consumer 2] Consumed task 427 Type: CPU Priority: 32 WaitTime(ms): 8014
+[Consumer 1] Consumed task 798 Type: CPU Priority: 32 WaitTime(ms): 5639
+[Consumer 2] Consumed task 392 Type: CPU Priority: 32 WaitTime(ms): 8420
+[Consumer 1] Consumed task 757 Type: IO Priority: 32 WaitTime(ms): 4633
+[Consumer 2] Consumed task 379 Type: CPU Priority: 32 WaitTime(ms): 8616
+[Consumer 1] Consumed task 45 Type: CPU Priority: 32 WaitTime(ms): 12197
+[Consumer 2] Consumed task 184 Type: IO Priority: 32 WaitTime(ms): 10744
+[Consumer 1] Consumed task 709 Type: CPU Priority: 32 WaitTime(ms): 5230
+[Consumer 2] Consumed task 90 Type: IO Priority: 32 WaitTime(ms): 11781
+[Consumer 1] Consumed task 71 Type: IO Priority: 32 WaitTime(ms): 12021
+[Consumer 2] Consumed task 61 Type: IO Priority: 31 WaitTime(ms): 12128
+[Consumer 1] Consumed task 733 Type: IO Priority: 31 WaitTime(ms): 5055
+[Consumer 2] Consumed task 482 Type: IO Priority: 31 WaitTime(ms): 7682
+[Consumer 1] Consumed task 663 Type: IO Priority: 31 WaitTime(ms): 5820
+[Consumer 2] Consumed task 318 Type: IO Priority: 31 WaitTime(ms): 9430
+[Consumer 1] Consumed task 312 Type: IO Priority: 31 WaitTime(ms): 9525
+[Consumer 2] Consumed task 305 Type: CPU Priority: 31 WaitTime(ms): 9608
+[Consumer 1] Consumed task 573 Type: CPU Priority: 31 WaitTime(ms): 6817
+[Consumer 2] Consumed task 269 Type: IO Priority: 31 WaitTime(ms): 10041
+[Consumer 1] Consumed task 543 Type: IO Priority: 31 WaitTime(ms): 7187
+[Consumer 2] Consumed task 173 Type: CPU Priority: 30 WaitTime(ms): 11107
+[Consumer 1] Consumed task 953 Type: CPU Priority: 30 WaitTime(ms): 4401
+[Consumer 2] Consumed task 776 Type: CPU Priority: 30 WaitTime(ms): 4780
+[Consumer 1] Consumed task 964 Type: CPU Priority: 30 WaitTime(ms): 4340
+[Consumer 2] Consumed task 362 Type: CPU Priority: 30 WaitTime(ms): 9175
+[Consumer 1] Consumed task 603 Type: IO Priority: 29 WaitTime(ms): 6689
+[Consumer 2] Consumed task 15 Type: CPU Priority: 29 WaitTime(ms): 12950
+[Consumer 1] Consumed task 246 Type: CPU Priority: 29 WaitTime(ms): 10475
+[Consumer 2] Consumed task 854 Type: IO Priority: 29 WaitTime(ms): 5614
+[Consumer 1] Consumed task 786 Type: IO Priority: 29 WaitTime(ms): 6340
+[Consumer 2] Consumed task 778 Type: IO Priority: 29 WaitTime(ms): 6445
+[Consumer 1] Consumed task 95 Type: IO Priority: 29 WaitTime(ms): 12183
+[Consumer 2] Consumed task 20 Type: IO Priority: 29 WaitTime(ms): 13000
+[Consumer 1] Consumed task 587 Type: IO Priority: 29 WaitTime(ms): 6997
+[Consumer 2] Consumed task 223 Type: IO Priority: 28 WaitTime(ms): 10871
+[Consumer 1] Consumed task 99 Type: IO Priority: 28 WaitTime(ms): 12199
+[Consumer 2] Consumed task 969 Type: CPU Priority: 28 WaitTime(ms): 4532
+[Consumer 1] Consumed task 935 Type: IO Priority: 28 WaitTime(ms): 4897
+[Consumer 1] Consumed task 229 Type: IO Priority: 28 WaitTime(ms): 10876
+[Consumer 2] Consumed task 460 Type: IO Priority: 28 WaitTime(ms): 8431
+[Consumer 1] Consumed task 105 Type: CPU Priority: 28 WaitTime(ms): 12228
+[Consumer 2] Consumed task 200 Type: IO Priority: 28 WaitTime(ms): 11221
+[Consumer 2] Consumed task 782 Type: CPU Priority: 28 WaitTime(ms): 6610
+[Consumer 1] Consumed task 764 Type: IO Priority: 28 WaitTime(ms): 5307
+[Consumer 1] Consumed task 734 Type: IO Priority: 28 WaitTime(ms): 5661
+[Consumer 2] Consumed task 688 Type: IO Priority: 28 WaitTime(ms): 6155
+[Consumer 1] Consumed task 409 Type: CPU Priority: 28 WaitTime(ms): 9100
+[Consumer 2] Consumed task 70 Type: IO Priority: 28 WaitTime(ms): 12722
+[Consumer 2] Consumed task 473 Type: CPU Priority: 27 WaitTime(ms): 8482
+[Consumer 1] Consumed task 869 Type: CPU Priority: 27 WaitTime(ms): 5814
+[Consumer 2] Consumed task 918 Type: CPU Priority: 27 WaitTime(ms): 5344
+[Consumer 1] Consumed task 88 Type: IO Priority: 27 WaitTime(ms): 12619
+[Consumer 1] Consumed task 675 Type: CPU Priority: 27 WaitTime(ms): 6452
+[Consumer 2] Consumed task 168 Type: CPU Priority: 27 WaitTime(ms): 11805
+[Consumer 1] Consumed task 330 Type: CPU Priority: 27 WaitTime(ms): 10112
+[Consumer 2] Consumed task 249 Type: CPU Priority: 26 WaitTime(ms): 10995
+[Consumer 1] Consumed task 865 Type: IO Priority: 26 WaitTime(ms): 6043
+[Consumer 2] Consumed task 424 Type: IO Priority: 26 WaitTime(ms): 9183
+[Consumer 1] Consumed task 263 Type: CPU Priority: 26 WaitTime(ms): 10912
+[Consumer 2] Consumed task 784 Type: CPU Priority: 26 WaitTime(ms): 6936
+[Consumer 1] Consumed task 48 Type: CPU Priority: 26 WaitTime(ms): 13262
+[Consumer 2] Consumed task 694 Type: CPU Priority: 26 WaitTime(ms): 6440
+[Consumer 1] Consumed task 344 Type: IO Priority: 26 WaitTime(ms): 10143
+[Consumer 2] Consumed task 195 Type: IO Priority: 26 WaitTime(ms): 11766
+[Consumer 1] Consumed task 593 Type: IO Priority: 26 WaitTime(ms): 7569
+[Consumer 2] Consumed task 583 Type: CPU Priority: 26 WaitTime(ms): 7684
+[Consumer 1] Consumed task 148 Type: CPU Priority: 26 WaitTime(ms): 12300
+[Consumer 2] Consumed task 537 Type: CPU Priority: 26 WaitTime(ms): 8222
+[Consumer 1] Consumed task 960 Type: IO Priority: 25 WaitTime(ms): 5291
+[Consumer 1] Consumed task 461 Type: CPU Priority: 25 WaitTime(ms): 9075
+[Consumer 2] Consumed task 763 Type: CPU Priority: 25 WaitTime(ms): 5899
+[Consumer 1] Consumed task 859 Type: CPU Priority: 25 WaitTime(ms): 6434
+[Consumer 2] Consumed task 906 Type: CPU Priority: 25 WaitTime(ms): 5939
+[Consumer 1] Consumed task 946 Type: IO Priority: 25 WaitTime(ms): 5569
+[Consumer 2] Consumed task 357 Type: IO Priority: 25 WaitTime(ms): 10261
+[Consumer 1] Consumed task 176 Type: IO Priority: 25 WaitTime(ms): 12220
+[Consumer 2] Consumed task 701 Type: CPU Priority: 25 WaitTime(ms): 6695
+[Consumer 1] Consumed task 296 Type: CPU Priority: 25 WaitTime(ms): 10962
+[Consumer 2] Consumed task 133 Type: IO Priority: 24 WaitTime(ms): 12739
+[Consumer 1] Consumed task 258 Type: IO Priority: 24 WaitTime(ms): 11416
+[Consumer 2] Consumed task 980 Type: CPU Priority: 24 WaitTime(ms): 5330
+[Consumer 1] Consumed task 812 Type: CPU Priority: 24 WaitTime(ms): 7117
+[Consumer 2] Consumed task 181 Type: CPU Priority: 24 WaitTime(ms): 12310
+[Consumer 1] Consumed task 678 Type: IO Priority: 24 WaitTime(ms): 7085
+[Consumer 2] Consumed task 85 Type: CPU Priority: 24 WaitTime(ms): 13384
+[Consumer 1] Consumed task 626 Type: IO Priority: 24 WaitTime(ms): 7658
+[Consumer 1] Consumed task 35 Type: IO Priority: 24 WaitTime(ms): 13958
+[Consumer 2] Consumed task 108 Type: IO Priority: 24 WaitTime(ms): 13182
+[Consumer 1] Consumed task 606 Type: CPU Priority: 24 WaitTime(ms): 7927
+[Consumer 2] Consumed task 803 Type: CPU Priority: 24 WaitTime(ms): 7372
+[Consumer 1] Consumed task 838 Type: IO Priority: 23 WaitTime(ms): 7040
+[Consumer 2] Consumed task 252 Type: IO Priority: 23 WaitTime(ms): 11720
+[Consumer 1] Consumed task 976 Type: IO Priority: 23 WaitTime(ms): 5626
+[Consumer 2] Consumed task 900 Type: IO Priority: 23 WaitTime(ms): 6430
+[Consumer 1] Consumed task 885 Type: IO Priority: 23 WaitTime(ms): 6607
+[Consumer 2] Consumed task 852 Type: CPU Priority: 23 WaitTime(ms): 6965
+[Consumer 1] Consumed task 399 Type: CPU Priority: 23 WaitTime(ms): 10247
+[Consumer 2] Consumed task 737 Type: CPU Priority: 23 WaitTime(ms): 6743
+[Consumer 1] Consumed task 660 Type: IO Priority: 23 WaitTime(ms): 7559
+[Consumer 1] Consumed task 557 Type: CPU Priority: 23 WaitTime(ms): 8673
+[Consumer 2] Consumed task 552 Type: CPU Priority: 23 WaitTime(ms): 8720
+[Consumer 1] Consumed task 16 Type: CPU Priority: 22 WaitTime(ms): 14463
+[Consumer 2] Consumed task 177 Type: IO Priority: 22 WaitTime(ms): 12752
+[Consumer 2] Consumed task 959 Type: IO Priority: 22 WaitTime(ms): 6027
+[Consumer 1] Consumed task 120 Type: CPU Priority: 22 WaitTime(ms): 13399
+[Consumer 2] Consumed task 341 Type: CPU Priority: 22 WaitTime(ms): 11055
+[Consumer 1] Consumed task 130 Type: IO Priority: 22 WaitTime(ms): 13342
+[Consumer 2] Consumed task 644 Type: IO Priority: 22 WaitTime(ms): 7919
+[Consumer 1] Consumed task 171 Type: IO Priority: 22 WaitTime(ms): 12947
+[Consumer 2] Consumed task 622 Type: IO Priority: 22 WaitTime(ms): 8181
+[Consumer 1] Consumed task 303 Type: CPU Priority: 22 WaitTime(ms): 11561
+[Consumer 2] Consumed task 309 Type: IO Priority: 21 WaitTime(ms): 11509
+[Consumer 2] Consumed task 942 Type: IO Priority: 21 WaitTime(ms): 6379
+[Consumer 1] Consumed task 451 Type: CPU Priority: 21 WaitTime(ms): 10057
+[Consumer 2] Consumed task 871 Type: CPU Priority: 21 WaitTime(ms): 7153
+[Consumer 1] Consumed task 21 Type: IO Priority: 21 WaitTime(ms): 14684
+[Consumer 2] Consumed task 192 Type: IO Priority: 21 WaitTime(ms): 12870
+[Consumer 1] Consumed task 693 Type: CPU Priority: 21 WaitTime(ms): 7604
+[Consumer 2] Consumed task 164 Type: CPU Priority: 21 WaitTime(ms): 13195
+[Consumer 1] Consumed task 657 Type: CPU Priority: 21 WaitTime(ms): 8028
+[Consumer 2] Consumed task 162 Type: IO Priority: 21 WaitTime(ms): 13267
+[Consumer 1] Consumed task 79 Type: IO Priority: 21 WaitTime(ms): 14194
+[Consumer 2] Consumed task 602 Type: IO Priority: 21 WaitTime(ms): 8644
+[Consumer 1] Consumed task 402 Type: IO Priority: 21 WaitTime(ms): 10769
+[Consumer 2] Consumed task 502 Type: IO Priority: 21 WaitTime(ms): 9730
+[Consumer 1] Consumed task 913 Type: IO Priority: 20 WaitTime(ms): 6939
+[Consumer 2] Consumed task 435 Type: IO Priority: 20 WaitTime(ms): 10468
+[Consumer 1] Consumed task 870 Type: IO Priority: 20 WaitTime(ms): 7416
+[Consumer 2] Consumed task 791 Type: CPU Priority: 20 WaitTime(ms): 8257
+[Consumer 1] Consumed task 741 Type: CPU Priority: 20 WaitTime(ms): 7322
+[Consumer 2] Consumed task 170 Type: CPU Priority: 20 WaitTime(ms): 13358
+[Consumer 1] Consumed task 950 Type: CPU Priority: 20 WaitTime(ms): 6662
+[Consumer 2] Consumed task 278 Type: IO Priority: 20 WaitTime(ms): 12246
+[Consumer 1] Consumed task 128 Type: CPU Priority: 20 WaitTime(ms): 13886
+[Consumer 2] Consumed task 69 Type: CPU Priority: 19 WaitTime(ms): 14528
+[Consumer 1] Consumed task 624 Type: CPU Priority: 19 WaitTime(ms): 8691
+[Consumer 2] Consumed task 707 Type: CPU Priority: 19 WaitTime(ms): 7838
+[Consumer 1] Consumed task 163 Type: IO Priority: 19 WaitTime(ms): 13623
+[Consumer 2] Consumed task 590 Type: CPU Priority: 19 WaitTime(ms): 9096
+[Consumer 1] Consumed task 183 Type: CPU Priority: 19 WaitTime(ms): 13442
+[Consumer 2] Consumed task 628 Type: IO Priority: 18 WaitTime(ms): 8753
+[Consumer 1] Consumed task 792 Type: IO Priority: 18 WaitTime(ms): 8554
+[Consumer 2] Consumed task 463 Type: IO Priority: 18 WaitTime(ms): 10527
+[Consumer 1] Consumed task 743 Type: CPU Priority: 18 WaitTime(ms): 7616
+[Consumer 2] Consumed task 936 Type: CPU Priority: 18 WaitTime(ms): 7075
+[Consumer 1] Consumed task 97 Type: CPU Priority: 18 WaitTime(ms): 14490
+[Consumer 2] Consumed task 321 Type: IO Priority: 18 WaitTime(ms): 12095
+[Consumer 2] Consumed task 332 Type: IO Priority: 18 WaitTime(ms): 12003
+[Consumer 1] Consumed task 295 Type: CPU Priority: 18 WaitTime(ms): 12422
+[Consumer 2] Consumed task 575 Type: CPU Priority: 18 WaitTime(ms): 9485
+[Consumer 1] Consumed task 77 Type: IO Priority: 18 WaitTime(ms): 14809
+[Consumer 2] Consumed task 359 Type: CPU Priority: 17 WaitTime(ms): 11803
+[Consumer 1] Consumed task 978 Type: CPU Priority: 17 WaitTime(ms): 6822
+[Consumer 2] Consumed task 107 Type: CPU Priority: 17 WaitTime(ms): 14548
+[Consumer 1] Consumed task 54 Type: CPU Priority: 17 WaitTime(ms): 15128
+[Consumer 2] Consumed task 342 Type: CPU Priority: 17 WaitTime(ms): 12076
+[Consumer 1] Consumed task 662 Type: CPU Priority: 17 WaitTime(ms): 8744
+[Consumer 2] Consumed task 932 Type: IO Priority: 17 WaitTime(ms): 7432
+[Consumer 1] Consumed task 656 Type: CPU Priority: 17 WaitTime(ms): 8857
+[Consumer 2] Consumed task 907 Type: CPU Priority: 17 WaitTime(ms): 7726
+[Consumer 1] Consumed task 286 Type: CPU Priority: 17 WaitTime(ms): 12793
+[Consumer 2] Consumed task 301 Type: IO Priority: 17 WaitTime(ms): 12655
+[Consumer 2] Consumed task 418 Type: CPU Priority: 16 WaitTime(ms): 11442
+[Consumer 1] Consumed task 458 Type: CPU Priority: 16 WaitTime(ms): 11037
+[Consumer 2] Consumed task 753 Type: CPU Priority: 16 WaitTime(ms): 7989
+[Consumer 1] Consumed task 990 Type: IO Priority: 16 WaitTime(ms): 7003
+[Consumer 1] Consumed task 773 Type: CPU Priority: 16 WaitTime(ms): 7814
+[Consumer 2] Consumed task 805 Type: IO Priority: 16 WaitTime(ms): 8984
+[Consumer 2] Consumed task 317 Type: CPU Priority: 16 WaitTime(ms): 12647
+[Consumer 1] Consumed task 702 Type: IO Priority: 16 WaitTime(ms): 8614
+[Consumer 1] Consumed task 264 Type: CPU Priority: 16 WaitTime(ms): 13243
+[Consumer 2] Consumed task 468 Type: CPU Priority: 15 WaitTime(ms): 11107
+[Consumer 1] Consumed task 682 Type: IO Priority: 15 WaitTime(ms): 8904
+[Consumer 2] Consumed task 235 Type: IO Priority: 15 WaitTime(ms): 13631
+[Consumer 1] Consumed task 766 Type: CPU Priority: 15 WaitTime(ms): 8046
+[Consumer 2] Consumed task 818 Type: IO Priority: 15 WaitTime(ms): 9006
+[Consumer 2] Consumed task 511 Type: CPU Priority: 15 WaitTime(ms): 10778
+[Consumer 1] Consumed task 633 Type: IO Priority: 15 WaitTime(ms): 9505
+[Consumer 1] Consumed task 24 Type: CPU Priority: 15 WaitTime(ms): 15979
+[Consumer 2] Consumed task 259 Type: CPU Priority: 14 WaitTime(ms): 13478
+[Consumer 1] Consumed task 37 Type: IO Priority: 14 WaitTime(ms): 15899
+[Consumer 2] Consumed task 910 Type: IO Priority: 14 WaitTime(ms): 8173
+[Consumer 1] Consumed task 842 Type: IO Priority: 14 WaitTime(ms): 8909
+[Consumer 2] Consumed task 221 Type: IO Priority: 14 WaitTime(ms): 13978
+[Consumer 1] Consumed task 347 Type: IO Priority: 14 WaitTime(ms): 12644
+[Consumer 2] Consumed task 457 Type: CPU Priority: 14 WaitTime(ms): 11507
+[Consumer 1] Consumed task 272 Type: IO Priority: 14 WaitTime(ms): 13465
+[Consumer 2] Consumed task 34 Type: IO Priority: 13 WaitTime(ms): 16045
+[Consumer 1] Consumed task 432 Type: IO Priority: 13 WaitTime(ms): 11808
+[Consumer 2] Consumed task 824 Type: CPU Priority: 13 WaitTime(ms): 9220
+[Consumer 1] Consumed task 679 Type: CPU Priority: 13 WaitTime(ms): 9261
+[Consumer 2] Consumed task 706 Type: IO Priority: 13 WaitTime(ms): 9022
+[Consumer 1] Consumed task 600 Type: IO Priority: 13 WaitTime(ms): 10125
+[Consumer 2] Consumed task 895 Type: CPU Priority: 13 WaitTime(ms): 8555
+[Consumer 1] Consumed task 25 Type: CPU Priority: 13 WaitTime(ms): 16264
+[Consumer 2] Consumed task 687 Type: IO Priority: 13 WaitTime(ms): 9311
+[Consumer 1] Consumed task 102 Type: CPU Priority: 13 WaitTime(ms): 15482
+[Consumer 2] Consumed task 146 Type: CPU Priority: 13 WaitTime(ms): 15039
+[Consumer 1] Consumed task 161 Type: CPU Priority: 13 WaitTime(ms): 14911
+[Consumer 2] Consumed task 831 Type: IO Priority: 13 WaitTime(ms): 9366
+[Consumer 1] Consumed task 629 Type: IO Priority: 12 WaitTime(ms): 10018
+[Consumer 2] Consumed task 261 Type: CPU Priority: 12 WaitTime(ms): 13895
+[Consumer 1] Consumed task 498 Type: IO Priority: 12 WaitTime(ms): 11415
+[Consumer 2] Consumed task 754 Type: IO Priority: 12 WaitTime(ms): 8755
+[Consumer 1] Consumed task 888 Type: IO Priority: 12 WaitTime(ms): 8841
+[Consumer 2] Consumed task 531 Type: CPU Priority: 12 WaitTime(ms): 11135
+[Consumer 1] Consumed task 323 Type: IO Priority: 12 WaitTime(ms): 13319
+[Consumer 1] Consumed task 274 Type: IO Priority: 12 WaitTime(ms): 13861
+[Consumer 2] Consumed task 271 Type: CPU Priority: 12 WaitTime(ms): 13921
+[Consumer 1] Consumed task 273 Type: CPU Priority: 12 WaitTime(ms): 13911
+[Consumer 2] Consumed task 966 Type: CPU Priority: 12 WaitTime(ms): 8159
+[Consumer 1] Consumed task 378 Type: CPU Priority: 11 WaitTime(ms): 12838
+[Consumer 2] Consumed task 10 Type: CPU Priority: 11 WaitTime(ms): 16812
+[Consumer 1] Consumed task 124 Type: CPU Priority: 11 WaitTime(ms): 15603
+[Consumer 2] Consumed task 620 Type: CPU Priority: 11 WaitTime(ms): 10396
+[Consumer 1] Consumed task 829 Type: IO Priority: 11 WaitTime(ms): 9714
+[Consumer 1] Consumed task 699 Type: IO Priority: 11 WaitTime(ms): 9625
+[Consumer 2] Consumed task 19 Type: CPU Priority: 11 WaitTime(ms): 16830
+[Consumer 1] Consumed task 875 Type: IO Priority: 11 WaitTime(ms): 9287
+[Consumer 2] Consumed task 986 Type: IO Priority: 11 WaitTime(ms): 8158
+[Consumer 1] Consumed task 817 Type: CPU Priority: 11 WaitTime(ms): 9931
+[Consumer 2] Consumed task 987 Type: CPU Priority: 10 WaitTime(ms): 8176
+[Consumer 1] Consumed task 598 Type: CPU Priority: 10 WaitTime(ms): 10780
+[Consumer 2] Consumed task 466 Type: IO Priority: 10 WaitTime(ms): 12201
+[Consumer 1] Consumed task 358 Type: CPU Priority: 10 WaitTime(ms): 13347
+[Consumer 2] Consumed task 351 Type: CPU Priority: 10 WaitTime(ms): 13440
+[Consumer 1] Consumed task 592 Type: CPU Priority: 10 WaitTime(ms): 10946
+[Consumer 2] Consumed task 982 Type: CPU Priority: 10 WaitTime(ms): 8365
+[Consumer 1] Consumed task 476 Type: CPU Priority: 10 WaitTime(ms): 12222
+[Consumer 2] Consumed task 275 Type: IO Priority: 10 WaitTime(ms): 14351
+[Consumer 2] Consumed task 881 Type: IO Priority: 9 WaitTime(ms): 9501
+[Consumer 1] Consumed task 419 Type: IO Priority: 9 WaitTime(ms): 12873
+[Consumer 2] Consumed task 182 Type: IO Priority: 9 WaitTime(ms): 15407
+[Consumer 1] Consumed task 664 Type: IO Priority: 9 WaitTime(ms): 10330
+[Consumer 2] Consumed task 421 Type: IO Priority: 9 WaitTime(ms): 12902
+[Consumer 1] Consumed task 449 Type: IO Priority: 9 WaitTime(ms): 12624
+[Consumer 2] Consumed task 64 Type: IO Priority: 9 WaitTime(ms): 16732
+[Consumer 1] Consumed task 131 Type: CPU Priority: 8 WaitTime(ms): 16032
+[Consumer 2] Consumed task 877 Type: CPU Priority: 8 WaitTime(ms): 9668
+[Consumer 1] Consumed task 492 Type: IO Priority: 8 WaitTime(ms): 12251
+[Consumer 2] Consumed task 595 Type: IO Priority: 8 WaitTime(ms): 11190
+[Consumer 1] Consumed task 795 Type: IO Priority: 8 WaitTime(ms): 10596
+[Consumer 2] Consumed task 74 Type: IO Priority: 8 WaitTime(ms): 16738
+[Consumer 1] Consumed task 470 Type: CPU Priority: 8 WaitTime(ms): 12541
+[Consumer 2] Consumed task 955 Type: CPU Priority: 8 WaitTime(ms): 8963
+[Consumer 1] Consumed task 770 Type: IO Priority: 8 WaitTime(ms): 9439
+[Consumer 2] Consumed task 655 Type: CPU Priority: 7 WaitTime(ms): 10679
+[Consumer 1] Consumed task 713 Type: IO Priority: 7 WaitTime(ms): 10088
+[Consumer 1] Consumed task 940 Type: IO Priority: 7 WaitTime(ms): 9214
+[Consumer 2] Consumed task 408 Type: IO Priority: 7 WaitTime(ms): 13306
+[Consumer 1] Consumed task 759 Type: CPU Priority: 7 WaitTime(ms): 9656
+[Consumer 2] Consumed task 799 Type: CPU Priority: 7 WaitTime(ms): 10739
+[Consumer 1] Consumed task 327 Type: IO Priority: 7 WaitTime(ms): 14244
+[Consumer 2] Consumed task 291 Type: CPU Priority: 7 WaitTime(ms): 14634
+[Consumer 1] Consumed task 160 Type: IO Priority: 6 WaitTime(ms): 16052
+[Consumer 2] Consumed task 443 Type: IO Priority: 6 WaitTime(ms): 13086
+[Consumer 1] Consumed task 417 Type: CPU Priority: 6 WaitTime(ms): 13356
+[Consumer 2] Consumed task 103 Type: CPU Priority: 6 WaitTime(ms): 16728
+[Consumer 1] Consumed task 283 Type: CPU Priority: 6 WaitTime(ms): 14821
+[Consumer 2] Consumed task 993 Type: IO Priority: 6 WaitTime(ms): 8884
+[Consumer 1] Consumed task 68 Type: IO Priority: 6 WaitTime(ms): 17172
+[Consumer 2] Consumed task 335 Type: CPU Priority: 5 WaitTime(ms): 14333
+[Consumer 1] Consumed task 639 Type: CPU Priority: 5 WaitTime(ms): 11164
+[Consumer 2] Consumed task 30 Type: IO Priority: 5 WaitTime(ms): 17638
+[Consumer 1] Consumed task 599 Type: CPU Priority: 5 WaitTime(ms): 11632
+[Consumer 2] Consumed task 974 Type: CPU Priority: 5 WaitTime(ms): 9199
+[Consumer 1] Consumed task 260 Type: CPU Priority: 5 WaitTime(ms): 15244
+[Consumer 2] Consumed task 746 Type: IO Priority: 5 WaitTime(ms): 10147
+[Consumer 2] Consumed task 586 Type: CPU Priority: 5 WaitTime(ms): 11851
+[Consumer 1] Consumed task 923 Type: CPU Priority: 5 WaitTime(ms): 9826
+[Consumer 2] Consumed task 113 Type: IO Priority: 5 WaitTime(ms): 16923
+[Consumer 1] Consumed task 285 Type: IO Priority: 5 WaitTime(ms): 15089
+[Consumer 2] Consumed task 367 Type: CPU Priority: 5 WaitTime(ms): 14238
+[Consumer 1] Consumed task 167 Type: CPU Priority: 5 WaitTime(ms): 16389
+[Consumer 2] Consumed task 866 Type: IO Priority: 5 WaitTime(ms): 10543
+[Consumer 1] Consumed task 125 Type: IO Priority: 5 WaitTime(ms): 16890
+[Consumer 2] Consumed task 340 Type: CPU Priority: 5 WaitTime(ms): 14599
+[Consumer 1] Consumed task 630 Type: CPU Priority: 5 WaitTime(ms): 11571
+[Consumer 2] Consumed task 529 Type: IO Priority: 4 WaitTime(ms): 12681
+[Consumer 1] Consumed task 640 Type: IO Priority: 4 WaitTime(ms): 11517
+[Consumer 2] Consumed task 193 Type: IO Priority: 4 WaitTime(ms): 16271
+[Consumer 1] Consumed task 366 Type: IO Priority: 4 WaitTime(ms): 14415
+[Consumer 2] Consumed task 104 Type: CPU Priority: 4 WaitTime(ms): 17239
+[Consumer 1] Consumed task 439 Type: CPU Priority: 4 WaitTime(ms): 13695
+[Consumer 2] Consumed task 916 Type: IO Priority: 4 WaitTime(ms): 10217
+[Consumer 1] Consumed task 236 Type: IO Priority: 4 WaitTime(ms): 15889
+[Consumer 2] Consumed task 567 Type: CPU Priority: 4 WaitTime(ms): 12421
+[Consumer 1] Consumed task 904 Type: IO Priority: 4 WaitTime(ms): 10383
+[Consumer 1] Consumed task 689 Type: IO Priority: 4 WaitTime(ms): 11192
+[Consumer 2] Consumed task 213 Type: IO Priority: 3 WaitTime(ms): 16218
+[Consumer 1] Consumed task 43 Type: IO Priority: 3 WaitTime(ms): 18054
+[Consumer 2] Consumed task 642 Type: CPU Priority: 3 WaitTime(ms): 11710
+[Consumer 1] Consumed task 72 Type: IO Priority: 3 WaitTime(ms): 17769
+[Consumer 2] Consumed task 205 Type: IO Priority: 3 WaitTime(ms): 16387
+[Consumer 1] Consumed task 882 Type: IO Priority: 3 WaitTime(ms): 10735
+[Consumer 2] Consumed task 700 Type: IO Priority: 3 WaitTime(ms): 11190
+[Consumer 1] Consumed task 808 Type: IO Priority: 2 WaitTime(ms): 11543
+[Consumer 2] Consumed task 728 Type: IO Priority: 2 WaitTime(ms): 10925
+[Consumer 1] Consumed task 572 Type: CPU Priority: 2 WaitTime(ms): 12553
+[Consumer 2] Consumed task 197 Type: CPU Priority: 2 WaitTime(ms): 16566
+[Consumer 1] Consumed task 406 Type: IO Priority: 1 WaitTime(ms): 14346
+[Consumer 2] Consumed task 670 Type: CPU Priority: 1 WaitTime(ms): 11614
+[Consumer 1] Consumed task 994 Type: IO Priority: 1 WaitTime(ms): 9713
+[Consumer 1] Consumed task 56 Type: CPU Priority: 1 WaitTime(ms): 18144
+[Consumer 2] Consumed task 924 Type: IO Priority: 1 WaitTime(ms): 10492
+[Consumer 2] Consumed task 648 Type: IO Priority: 0 WaitTime(ms): 11925
+[Consumer 1] Consumed task 420 Type: CPU Priority: 0 WaitTime(ms): 14314
+[Consumer 2] Consumed task 929 Type: CPU Priority: 0 WaitTime(ms): 10500
+[Consumer 1] Consumed task 210 Type: CPU Priority: 0 WaitTime(ms): 16601
+[Consumer 2] Consumed task 787 Type: CPU Priority: 0 WaitTime(ms): 12050
+[Consumer 1] Consumed task 525 Type: CPU Priority: 0 WaitTime(ms): 13329
+[Consumer 2] Consumed task 902 Type: CPU Priority: 0 WaitTime(ms): 10884
+[Consumer 1] Consumed task 558 Type: CPU Priority: 0 WaitTime(ms): 13018
+[Consumer 2] Consumed task 901 Type: CPU Priority: 0 WaitTime(ms): 10946
+[Consumer 1] Consumed task 847 Type: IO Priority: 0 WaitTime(ms): 11538
+[Consumer 2] Consumed task 262 Type: CPU Priority: 0 WaitTime(ms): 16217
+[Consumer 1] Consumed task 769 Type: IO Priority: 0 WaitTime(ms): 10895
+[Consumer 1] Consumed task 294 Type: IO Priority: 0 WaitTime(ms): 15911
+[Consumer 2] Consumed task 941 Type: CPU Priority: 0 WaitTime(ms): 10630
+[Consumer 1] Consumed task 496 Type: IO Priority: 0 WaitTime(ms): 13821
+[Consumer 1] Consumed task 135 Type: CPU Priority: 0 WaitTime(ms): 17686
+[Consumer 2] Consumed task 230 Type: IO Priority: 0 WaitTime(ms): 16671
+All tasks processed: 1000 Average WaitTime(ms): 4441
